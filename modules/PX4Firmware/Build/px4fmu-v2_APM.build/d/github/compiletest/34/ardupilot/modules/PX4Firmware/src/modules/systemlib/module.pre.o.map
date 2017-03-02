@@ -1,0 +1,4268 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .group         0x00000000        0x8 conversions.c.o
+ .debug_macro   0x00000000      0x8ec conversions.c.o
+ .debug_macro   0x00000000       0x22 conversions.c.o
+ .debug_macro   0x00000000      0x8b4 conversions.c.o
+ .debug_macro   0x00000000       0xc9 conversions.c.o
+ .debug_macro   0x00000000       0x10 conversions.c.o
+ .debug_macro   0x00000000       0x88 conversions.c.o
+ .debug_macro   0x00000000      0x14e conversions.c.o
+ .debug_macro   0x00000000      0x12c conversions.c.o
+ .debug_macro   0x00000000       0x22 conversions.c.o
+ .debug_macro   0x00000000      0x11b conversions.c.o
+ .debug_macro   0x00000000       0x59 conversions.c.o
+ .debug_macro   0x00000000      0x27f conversions.c.o
+ .debug_macro   0x00000000       0x10 conversions.c.o
+ .debug_macro   0x00000000      0x195 conversions.c.o
+ .debug_macro   0x00000000       0x8a conversions.c.o
+ .debug_macro   0x00000000       0x10 conversions.c.o
+ .debug_macro   0x00000000       0x10 conversions.c.o
+ .debug_macro   0x00000000       0x23 conversions.c.o
+ .debug_macro   0x00000000       0x39 conversions.c.o
+ .debug_macro   0x00000000      0x183 conversions.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .group         0x00000000        0x8 cpuload.c.o
+ .debug_macro   0x00000000      0x8ec cpuload.c.o
+ .debug_macro   0x00000000       0x22 cpuload.c.o
+ .debug_macro   0x00000000      0x8b4 cpuload.c.o
+ .debug_macro   0x00000000       0xc9 cpuload.c.o
+ .debug_macro   0x00000000       0x10 cpuload.c.o
+ .debug_macro   0x00000000       0x88 cpuload.c.o
+ .debug_macro   0x00000000      0x14e cpuload.c.o
+ .debug_macro   0x00000000      0x12c cpuload.c.o
+ .debug_macro   0x00000000       0x6f cpuload.c.o
+ .debug_macro   0x00000000       0x22 cpuload.c.o
+ .debug_macro   0x00000000       0x78 cpuload.c.o
+ .debug_macro   0x00000000       0x28 cpuload.c.o
+ .debug_macro   0x00000000      0x11b cpuload.c.o
+ .debug_macro   0x00000000       0x59 cpuload.c.o
+ .debug_macro   0x00000000       0x4c cpuload.c.o
+ .debug_macro   0x00000000      0x27f cpuload.c.o
+ .debug_macro   0x00000000       0x10 cpuload.c.o
+ .debug_macro   0x00000000      0x195 cpuload.c.o
+ .debug_macro   0x00000000       0x8a cpuload.c.o
+ .debug_macro   0x00000000       0x10 cpuload.c.o
+ .debug_macro   0x00000000       0x10 cpuload.c.o
+ .debug_macro   0x00000000      0x6cb cpuload.c.o
+ .debug_macro   0x00000000      0x20a cpuload.c.o
+ .debug_macro   0x00000000      0xf6f cpuload.c.o
+ .debug_macro   0x00000000      0x2ab cpuload.c.o
+ .debug_macro   0x00000000      0x8b5 cpuload.c.o
+ .debug_macro   0x00000000       0x23 cpuload.c.o
+ .debug_macro   0x00000000       0x39 cpuload.c.o
+ .debug_macro   0x00000000       0x78 cpuload.c.o
+ .debug_macro   0x00000000      0x14e cpuload.c.o
+ .debug_macro   0x00000000      0x7ca cpuload.c.o
+ .debug_macro   0x00000000       0xff cpuload.c.o
+ .debug_macro   0x00000000      0xae7 cpuload.c.o
+ .debug_macro   0x00000000       0x51 cpuload.c.o
+ .debug_macro   0x00000000      0x11a cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000       0x1d cpuload.c.o
+ .debug_macro   0x00000000      0x23b cpuload.c.o
+ .debug_macro   0x00000000      0x56a cpuload.c.o
+ .debug_macro   0x00000000       0x9c cpuload.c.o
+ .debug_macro   0x00000000      0x2bf cpuload.c.o
+ .debug_macro   0x00000000       0xd3 cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000       0x34 cpuload.c.o
+ .debug_macro   0x00000000      0xab0 cpuload.c.o
+ .debug_macro   0x00000000       0x17 cpuload.c.o
+ .debug_macro   0x00000000      0x6fa cpuload.c.o
+ .debug_macro   0x00000000       0x22 cpuload.c.o
+ .debug_macro   0x00000000      0x596 cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000      0x29b cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000     0x15a4 cpuload.c.o
+ .debug_macro   0x00000000       0x53 cpuload.c.o
+ .debug_macro   0x00000000      0x347 cpuload.c.o
+ .debug_macro   0x00000000       0x96 cpuload.c.o
+ .debug_macro   0x00000000       0x1c cpuload.c.o
+ .debug_macro   0x00000000       0x9a cpuload.c.o
+ .debug_macro   0x00000000      0x1cf cpuload.c.o
+ .debug_macro   0x00000000      0x16c cpuload.c.o
+ .debug_macro   0x00000000      0x413 cpuload.c.o
+ .debug_macro   0x00000000       0x5f cpuload.c.o
+ .debug_macro   0x00000000       0x1d cpuload.c.o
+ .debug_macro   0x00000000       0xdf cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000      0x13f cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000       0x1c cpuload.c.o
+ .debug_macro   0x00000000      0xdb4 cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000      0x21b cpuload.c.o
+ .debug_macro   0x00000000      0x2b6 cpuload.c.o
+ .debug_macro   0x00000000       0x49 cpuload.c.o
+ .debug_macro   0x00000000       0x10 cpuload.c.o
+ .debug_macro   0x00000000       0x4c cpuload.c.o
+ .debug_macro   0x00000000       0x28 cpuload.c.o
+ .debug_macro   0x00000000       0xd1 cpuload.c.o
+ .debug_macro   0x00000000       0x98 cpuload.c.o
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+ .debug_macro   0x00000000       0xb4 cpuload.c.o
+ .debug_macro   0x00000000       0x41 cpuload.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .group         0x00000000        0x8 getopt_long.c.o
+ .debug_macro   0x00000000      0x8ec getopt_long.c.o
+ .debug_macro   0x00000000       0x22 getopt_long.c.o
+ .debug_macro   0x00000000      0x8b4 getopt_long.c.o
+ .debug_macro   0x00000000       0xc9 getopt_long.c.o
+ .debug_macro   0x00000000       0x10 getopt_long.c.o
+ .debug_macro   0x00000000       0x88 getopt_long.c.o
+ .debug_macro   0x00000000      0x14e getopt_long.c.o
+ .debug_macro   0x00000000      0x12c getopt_long.c.o
+ .debug_macro   0x00000000       0x69 getopt_long.c.o
+ .debug_macro   0x00000000       0x58 getopt_long.c.o
+ .debug_macro   0x00000000       0x4c getopt_long.c.o
+ .debug_macro   0x00000000       0x49 getopt_long.c.o
+ .debug_macro   0x00000000      0x106 getopt_long.c.o
+ .debug_macro   0x00000000       0x23 getopt_long.c.o
+ .debug_macro   0x00000000       0x28 getopt_long.c.o
+ .debug_macro   0x00000000       0x22 getopt_long.c.o
+ .debug_macro   0x00000000       0xd1 getopt_long.c.o
+ .debug_macro   0x00000000       0x98 getopt_long.c.o
+ .debug_macro   0x00000000       0x16 getopt_long.c.o
+ .debug_macro   0x00000000       0x59 getopt_long.c.o
+ .debug_macro   0x00000000      0x11b getopt_long.c.o
+ .debug_macro   0x00000000       0x46 getopt_long.c.o
+ .debug_macro   0x00000000      0x27f getopt_long.c.o
+ .debug_macro   0x00000000       0x10 getopt_long.c.o
+ .debug_macro   0x00000000      0x195 getopt_long.c.o
+ .debug_macro   0x00000000       0x8a getopt_long.c.o
+ .debug_macro   0x00000000       0x10 getopt_long.c.o
+ .debug_macro   0x00000000       0x10 getopt_long.c.o
+ .debug_macro   0x00000000       0x39 getopt_long.c.o
+ .debug_macro   0x00000000       0xb4 getopt_long.c.o
+ .debug_macro   0x00000000       0x41 getopt_long.c.o
+ .debug_macro   0x00000000       0x4d getopt_long.c.o
+ .debug_macro   0x00000000       0x22 getopt_long.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .group         0x00000000        0x8 pid/pid.c.o
+ .debug_macro   0x00000000      0x8ec pid/pid.c.o
+ .debug_macro   0x00000000       0x22 pid/pid.c.o
+ .debug_macro   0x00000000      0x8b4 pid/pid.c.o
+ .debug_macro   0x00000000       0xc9 pid/pid.c.o
+ .debug_macro   0x00000000       0x10 pid/pid.c.o
+ .debug_macro   0x00000000       0x88 pid/pid.c.o
+ .debug_macro   0x00000000      0x14e pid/pid.c.o
+ .debug_macro   0x00000000      0x12c pid/pid.c.o
+ .debug_macro   0x00000000       0x58 pid/pid.c.o
+ .debug_macro   0x00000000       0x22 pid/pid.c.o
+ .debug_macro   0x00000000       0x2e pid/pid.c.o
+ .debug_macro   0x00000000       0x9c pid/pid.c.o
+ .debug_macro   0x00000000      0x28f pid/pid.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .group         0x00000000        0x8 airspeed.c.o
+ .debug_macro   0x00000000      0x8ec airspeed.c.o
+ .debug_macro   0x00000000       0x22 airspeed.c.o
+ .debug_macro   0x00000000      0x8b4 airspeed.c.o
+ .debug_macro   0x00000000       0xc9 airspeed.c.o
+ .debug_macro   0x00000000       0x10 airspeed.c.o
+ .debug_macro   0x00000000       0x88 airspeed.c.o
+ .debug_macro   0x00000000      0x14e airspeed.c.o
+ .debug_macro   0x00000000      0x12c airspeed.c.o
+ .debug_macro   0x00000000       0x69 airspeed.c.o
+ .debug_macro   0x00000000       0x58 airspeed.c.o
+ .debug_macro   0x00000000       0x4c airspeed.c.o
+ .debug_macro   0x00000000       0x49 airspeed.c.o
+ .debug_macro   0x00000000      0x106 airspeed.c.o
+ .debug_macro   0x00000000       0x23 airspeed.c.o
+ .debug_macro   0x00000000       0x28 airspeed.c.o
+ .debug_macro   0x00000000       0x22 airspeed.c.o
+ .debug_macro   0x00000000       0xd1 airspeed.c.o
+ .debug_macro   0x00000000       0x98 airspeed.c.o
+ .debug_macro   0x00000000       0x16 airspeed.c.o
+ .debug_macro   0x00000000       0x59 airspeed.c.o
+ .debug_macro   0x00000000      0x11b airspeed.c.o
+ .debug_macro   0x00000000       0x46 airspeed.c.o
+ .debug_macro   0x00000000      0x27f airspeed.c.o
+ .debug_macro   0x00000000       0x10 airspeed.c.o
+ .debug_macro   0x00000000      0x195 airspeed.c.o
+ .debug_macro   0x00000000       0x8a airspeed.c.o
+ .debug_macro   0x00000000       0x10 airspeed.c.o
+ .debug_macro   0x00000000       0x10 airspeed.c.o
+ .debug_macro   0x00000000       0x39 airspeed.c.o
+ .debug_macro   0x00000000       0xb4 airspeed.c.o
+ .debug_macro   0x00000000       0x41 airspeed.c.o
+ .debug_macro   0x00000000       0x4d airspeed.c.o
+ .debug_macro   0x00000000       0x58 airspeed.c.o
+ .debug_macro   0x00000000       0x22 airspeed.c.o
+ .debug_macro   0x00000000       0x2e airspeed.c.o
+ .debug_macro   0x00000000       0x9c airspeed.c.o
+ .debug_macro   0x00000000      0x28f airspeed.c.o
+ .debug_macro   0x00000000       0x12 airspeed.c.o
+ .debug_macro   0x00000000      0x29d airspeed.c.o
+ .debug_macro   0x00000000       0x22 airspeed.c.o
+ .debug_macro   0x00000000       0x29 airspeed.c.o
+ .debug_macro   0x00000000       0x31 airspeed.c.o
+ .debug_macro   0x00000000      0x183 airspeed.c.o
+ .debug_macro   0x00000000       0x16 airspeed.c.o
+ .debug_macro   0x00000000       0x5a airspeed.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .group         0x00000000        0x8 mavlink_log.c.o
+ .debug_macro   0x00000000      0x8ec mavlink_log.c.o
+ .debug_macro   0x00000000       0x22 mavlink_log.c.o
+ .debug_macro   0x00000000       0x28 mavlink_log.c.o
+ .debug_macro   0x00000000      0x8b4 mavlink_log.c.o
+ .debug_macro   0x00000000       0xc9 mavlink_log.c.o
+ .debug_macro   0x00000000       0x10 mavlink_log.c.o
+ .debug_macro   0x00000000       0x88 mavlink_log.c.o
+ .debug_macro   0x00000000      0x14e mavlink_log.c.o
+ .debug_macro   0x00000000      0x12c mavlink_log.c.o
+ .debug_macro   0x00000000       0x69 mavlink_log.c.o
+ .debug_macro   0x00000000       0x12 mavlink_log.c.o
+ .debug_macro   0x00000000       0x22 mavlink_log.c.o
+ .debug_macro   0x00000000       0x44 mavlink_log.c.o
+ .debug_macro   0x00000000      0x29d mavlink_log.c.o
+ .debug_macro   0x00000000       0x58 mavlink_log.c.o
+ .debug_macro   0x00000000       0x4c mavlink_log.c.o
+ .debug_macro   0x00000000       0x49 mavlink_log.c.o
+ .debug_macro   0x00000000      0x106 mavlink_log.c.o
+ .debug_macro   0x00000000       0x23 mavlink_log.c.o
+ .debug_macro   0x00000000       0x28 mavlink_log.c.o
+ .debug_macro   0x00000000       0x22 mavlink_log.c.o
+ .debug_macro   0x00000000       0xd1 mavlink_log.c.o
+ .debug_macro   0x00000000       0x98 mavlink_log.c.o
+ .debug_macro   0x00000000       0x16 mavlink_log.c.o
+ .debug_macro   0x00000000       0x59 mavlink_log.c.o
+ .debug_macro   0x00000000      0x11b mavlink_log.c.o
+ .debug_macro   0x00000000       0x46 mavlink_log.c.o
+ .debug_macro   0x00000000      0x27f mavlink_log.c.o
+ .debug_macro   0x00000000       0x10 mavlink_log.c.o
+ .debug_macro   0x00000000      0x195 mavlink_log.c.o
+ .debug_macro   0x00000000       0x8a mavlink_log.c.o
+ .debug_macro   0x00000000       0x10 mavlink_log.c.o
+ .debug_macro   0x00000000       0x10 mavlink_log.c.o
+ .debug_macro   0x00000000       0x39 mavlink_log.c.o
+ .debug_macro   0x00000000       0xb4 mavlink_log.c.o
+ .debug_macro   0x00000000       0x41 mavlink_log.c.o
+ .debug_macro   0x00000000       0x4d mavlink_log.c.o
+ .debug_macro   0x00000000       0xd6 mavlink_log.c.o
+ .debug_macro   0x00000000       0x58 mavlink_log.c.o
+ .debug_macro   0x00000000       0x2e mavlink_log.c.o
+ .debug_macro   0x00000000       0x9c mavlink_log.c.o
+ .debug_macro   0x00000000      0x28f mavlink_log.c.o
+ .debug_macro   0x00000000       0x22 mavlink_log.c.o
+ .debug_macro   0x00000000       0x29 mavlink_log.c.o
+ .debug_macro   0x00000000       0x31 mavlink_log.c.o
+ .debug_macro   0x00000000      0x183 mavlink_log.c.o
+ .debug_macro   0x00000000       0x16 mavlink_log.c.o
+ .debug_macro   0x00000000       0x5a mavlink_log.c.o
+ .debug_macro   0x00000000       0x5e mavlink_log.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .group         0x00000000        0x8 rc_check.c.o
+ .debug_macro   0x00000000      0x8ec rc_check.c.o
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+ .debug_macro   0x00000000      0x8b4 rc_check.c.o
+ .debug_macro   0x00000000       0xc9 rc_check.c.o
+ .debug_macro   0x00000000       0x10 rc_check.c.o
+ .debug_macro   0x00000000       0x88 rc_check.c.o
+ .debug_macro   0x00000000      0x14e rc_check.c.o
+ .debug_macro   0x00000000      0x12c rc_check.c.o
+ .debug_macro   0x00000000       0x6f rc_check.c.o
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+ .debug_macro   0x00000000       0x78 rc_check.c.o
+ .debug_macro   0x00000000       0x28 rc_check.c.o
+ .debug_macro   0x00000000      0x11b rc_check.c.o
+ .debug_macro   0x00000000       0x59 rc_check.c.o
+ .debug_macro   0x00000000       0x4c rc_check.c.o
+ .debug_macro   0x00000000      0x27f rc_check.c.o
+ .debug_macro   0x00000000       0x10 rc_check.c.o
+ .debug_macro   0x00000000      0x195 rc_check.c.o
+ .debug_macro   0x00000000       0x8a rc_check.c.o
+ .debug_macro   0x00000000       0x10 rc_check.c.o
+ .debug_macro   0x00000000       0x10 rc_check.c.o
+ .debug_macro   0x00000000      0x6cb rc_check.c.o
+ .debug_macro   0x00000000      0x20a rc_check.c.o
+ .debug_macro   0x00000000      0xf6f rc_check.c.o
+ .debug_macro   0x00000000      0x2ab rc_check.c.o
+ .debug_macro   0x00000000      0x8b5 rc_check.c.o
+ .debug_macro   0x00000000       0x23 rc_check.c.o
+ .debug_macro   0x00000000       0x39 rc_check.c.o
+ .debug_macro   0x00000000       0x78 rc_check.c.o
+ .debug_macro   0x00000000      0x14e rc_check.c.o
+ .debug_macro   0x00000000      0x7ca rc_check.c.o
+ .debug_macro   0x00000000       0xff rc_check.c.o
+ .debug_macro   0x00000000      0xae7 rc_check.c.o
+ .debug_macro   0x00000000       0x51 rc_check.c.o
+ .debug_macro   0x00000000      0x11a rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000       0x1d rc_check.c.o
+ .debug_macro   0x00000000      0x23b rc_check.c.o
+ .debug_macro   0x00000000      0x56a rc_check.c.o
+ .debug_macro   0x00000000       0x9c rc_check.c.o
+ .debug_macro   0x00000000      0x2bf rc_check.c.o
+ .debug_macro   0x00000000       0xd3 rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000       0x34 rc_check.c.o
+ .debug_macro   0x00000000      0xab0 rc_check.c.o
+ .debug_macro   0x00000000       0x17 rc_check.c.o
+ .debug_macro   0x00000000      0x6fa rc_check.c.o
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+ .debug_macro   0x00000000      0x596 rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000      0x29b rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000     0x15a4 rc_check.c.o
+ .debug_macro   0x00000000       0x53 rc_check.c.o
+ .debug_macro   0x00000000      0x347 rc_check.c.o
+ .debug_macro   0x00000000       0x96 rc_check.c.o
+ .debug_macro   0x00000000       0x1c rc_check.c.o
+ .debug_macro   0x00000000       0x9a rc_check.c.o
+ .debug_macro   0x00000000      0x1cf rc_check.c.o
+ .debug_macro   0x00000000      0x16c rc_check.c.o
+ .debug_macro   0x00000000      0x413 rc_check.c.o
+ .debug_macro   0x00000000       0x5f rc_check.c.o
+ .debug_macro   0x00000000       0x1d rc_check.c.o
+ .debug_macro   0x00000000       0xdf rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000      0x13f rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000       0x1c rc_check.c.o
+ .debug_macro   0x00000000      0xdb4 rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000      0x21b rc_check.c.o
+ .debug_macro   0x00000000      0x2b6 rc_check.c.o
+ .debug_macro   0x00000000       0x49 rc_check.c.o
+ .debug_macro   0x00000000       0x10 rc_check.c.o
+ .debug_macro   0x00000000       0x58 rc_check.c.o
+ .debug_macro   0x00000000       0x4c rc_check.c.o
+ .debug_macro   0x00000000      0x10c rc_check.c.o
+ .debug_macro   0x00000000       0x28 rc_check.c.o
+ .debug_macro   0x00000000       0xd1 rc_check.c.o
+ .debug_macro   0x00000000       0x98 rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000       0xb4 rc_check.c.o
+ .debug_macro   0x00000000       0x41 rc_check.c.o
+ .debug_macro   0x00000000       0x4d rc_check.c.o
+ .debug_macro   0x00000000      0x14d rc_check.c.o
+ .debug_macro   0x00000000       0x28 rc_check.c.o
+ .debug_macro   0x00000000       0x12 rc_check.c.o
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+ .debug_macro   0x00000000       0x44 rc_check.c.o
+ .debug_macro   0x00000000      0x29d rc_check.c.o
+ .debug_macro   0x00000000       0x58 rc_check.c.o
+ .debug_macro   0x00000000       0x2e rc_check.c.o
+ .debug_macro   0x00000000       0x9c rc_check.c.o
+ .debug_macro   0x00000000      0x28f rc_check.c.o
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+ .debug_macro   0x00000000       0x29 rc_check.c.o
+ .debug_macro   0x00000000       0x31 rc_check.c.o
+ .debug_macro   0x00000000      0x183 rc_check.c.o
+ .debug_macro   0x00000000       0x16 rc_check.c.o
+ .debug_macro   0x00000000       0x5a rc_check.c.o
+ .debug_macro   0x00000000       0xd6 rc_check.c.o
+ .debug_macro   0x00000000       0x5f rc_check.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .group         0x00000000        0x8 otp.c.o
+ .debug_macro   0x00000000      0x8ec otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000      0x8b4 otp.c.o
+ .debug_macro   0x00000000       0xc9 otp.c.o
+ .debug_macro   0x00000000       0x10 otp.c.o
+ .debug_macro   0x00000000       0x88 otp.c.o
+ .debug_macro   0x00000000      0x14e otp.c.o
+ .debug_macro   0x00000000      0x12c otp.c.o
+ .debug_macro   0x00000000       0x6f otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000       0x78 otp.c.o
+ .debug_macro   0x00000000       0x28 otp.c.o
+ .debug_macro   0x00000000      0x11b otp.c.o
+ .debug_macro   0x00000000       0x59 otp.c.o
+ .debug_macro   0x00000000       0x4c otp.c.o
+ .debug_macro   0x00000000      0x27f otp.c.o
+ .debug_macro   0x00000000       0x10 otp.c.o
+ .debug_macro   0x00000000      0x195 otp.c.o
+ .debug_macro   0x00000000       0x8a otp.c.o
+ .debug_macro   0x00000000       0x10 otp.c.o
+ .debug_macro   0x00000000       0x10 otp.c.o
+ .debug_macro   0x00000000      0x6cb otp.c.o
+ .debug_macro   0x00000000      0x20a otp.c.o
+ .debug_macro   0x00000000      0xf6f otp.c.o
+ .debug_macro   0x00000000      0x2ab otp.c.o
+ .debug_macro   0x00000000      0x8b5 otp.c.o
+ .debug_macro   0x00000000       0x23 otp.c.o
+ .debug_macro   0x00000000       0x39 otp.c.o
+ .debug_macro   0x00000000       0x78 otp.c.o
+ .debug_macro   0x00000000      0x14e otp.c.o
+ .debug_macro   0x00000000      0x7ca otp.c.o
+ .debug_macro   0x00000000       0xff otp.c.o
+ .debug_macro   0x00000000      0xae7 otp.c.o
+ .debug_macro   0x00000000       0x51 otp.c.o
+ .debug_macro   0x00000000      0x11a otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000       0x1d otp.c.o
+ .debug_macro   0x00000000      0x23b otp.c.o
+ .debug_macro   0x00000000      0x56a otp.c.o
+ .debug_macro   0x00000000       0x9c otp.c.o
+ .debug_macro   0x00000000      0x2bf otp.c.o
+ .debug_macro   0x00000000       0xd3 otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000       0x34 otp.c.o
+ .debug_macro   0x00000000      0xab0 otp.c.o
+ .debug_macro   0x00000000       0x17 otp.c.o
+ .debug_macro   0x00000000      0x6fa otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000      0x596 otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000      0x29b otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000     0x15a4 otp.c.o
+ .debug_macro   0x00000000       0x53 otp.c.o
+ .debug_macro   0x00000000      0x347 otp.c.o
+ .debug_macro   0x00000000       0x96 otp.c.o
+ .debug_macro   0x00000000       0x1c otp.c.o
+ .debug_macro   0x00000000       0x9a otp.c.o
+ .debug_macro   0x00000000      0x1cf otp.c.o
+ .debug_macro   0x00000000      0x16c otp.c.o
+ .debug_macro   0x00000000      0x413 otp.c.o
+ .debug_macro   0x00000000       0x5f otp.c.o
+ .debug_macro   0x00000000       0x1d otp.c.o
+ .debug_macro   0x00000000       0xdf otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000      0x13f otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000       0x1c otp.c.o
+ .debug_macro   0x00000000      0xdb4 otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000      0x21b otp.c.o
+ .debug_macro   0x00000000      0x2b6 otp.c.o
+ .debug_macro   0x00000000       0x58 otp.c.o
+ .debug_macro   0x00000000       0x4c otp.c.o
+ .debug_macro   0x00000000       0x49 otp.c.o
+ .debug_macro   0x00000000      0x106 otp.c.o
+ .debug_macro   0x00000000       0x28 otp.c.o
+ .debug_macro   0x00000000       0xd1 otp.c.o
+ .debug_macro   0x00000000       0x98 otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000       0xb4 otp.c.o
+ .debug_macro   0x00000000       0x41 otp.c.o
+ .debug_macro   0x00000000       0x4d otp.c.o
+ .debug_macro   0x00000000       0x58 otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000       0x2e otp.c.o
+ .debug_macro   0x00000000       0x9c otp.c.o
+ .debug_macro   0x00000000      0x28f otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000      0x183 otp.c.o
+ .debug_macro   0x00000000       0x28 otp.c.o
+ .debug_macro   0x00000000       0x18 otp.c.o
+ .debug_macro   0x00000000       0x4a otp.c.o
+ .debug_macro   0x00000000      0x29d otp.c.o
+ .debug_macro   0x00000000       0x22 otp.c.o
+ .debug_macro   0x00000000       0x29 otp.c.o
+ .debug_macro   0x00000000       0x31 otp.c.o
+ .debug_macro   0x00000000       0x16 otp.c.o
+ .debug_macro   0x00000000       0x5a otp.c.o
+ .debug_macro   0x00000000       0xd6 otp.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .group         0x00000000        0x8 board_serial.c.o
+ .debug_macro   0x00000000      0x8ec board_serial.c.o
+ .debug_macro   0x00000000       0x22 board_serial.c.o
+ .debug_macro   0x00000000      0x8b4 board_serial.c.o
+ .debug_macro   0x00000000       0xc9 board_serial.c.o
+ .debug_macro   0x00000000       0x10 board_serial.c.o
+ .debug_macro   0x00000000       0x88 board_serial.c.o
+ .debug_macro   0x00000000      0x14e board_serial.c.o
+ .debug_macro   0x00000000      0x12c board_serial.c.o
+ .debug_macro   0x00000000       0x69 board_serial.c.o
+ .debug_macro   0x00000000       0x58 board_serial.c.o
+ .debug_macro   0x00000000       0x4c board_serial.c.o
+ .debug_macro   0x00000000       0x49 board_serial.c.o
+ .debug_macro   0x00000000      0x106 board_serial.c.o
+ .debug_macro   0x00000000       0x23 board_serial.c.o
+ .debug_macro   0x00000000       0x28 board_serial.c.o
+ .debug_macro   0x00000000       0x22 board_serial.c.o
+ .debug_macro   0x00000000       0x98 board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000       0x59 board_serial.c.o
+ .debug_macro   0x00000000      0x11b board_serial.c.o
+ .debug_macro   0x00000000       0x46 board_serial.c.o
+ .debug_macro   0x00000000      0x27f board_serial.c.o
+ .debug_macro   0x00000000       0x10 board_serial.c.o
+ .debug_macro   0x00000000      0x195 board_serial.c.o
+ .debug_macro   0x00000000       0x8a board_serial.c.o
+ .debug_macro   0x00000000       0x10 board_serial.c.o
+ .debug_macro   0x00000000       0x10 board_serial.c.o
+ .debug_macro   0x00000000       0x39 board_serial.c.o
+ .debug_macro   0x00000000       0xb4 board_serial.c.o
+ .debug_macro   0x00000000       0x41 board_serial.c.o
+ .debug_macro   0x00000000       0x4d board_serial.c.o
+ .debug_macro   0x00000000       0x78 board_serial.c.o
+ .debug_macro   0x00000000       0x28 board_serial.c.o
+ .debug_macro   0x00000000      0x6cb board_serial.c.o
+ .debug_macro   0x00000000      0x20a board_serial.c.o
+ .debug_macro   0x00000000      0xf6f board_serial.c.o
+ .debug_macro   0x00000000      0x2ab board_serial.c.o
+ .debug_macro   0x00000000      0x8b5 board_serial.c.o
+ .debug_macro   0x00000000       0x78 board_serial.c.o
+ .debug_macro   0x00000000      0x14e board_serial.c.o
+ .debug_macro   0x00000000      0x7ca board_serial.c.o
+ .debug_macro   0x00000000       0xff board_serial.c.o
+ .debug_macro   0x00000000      0xae7 board_serial.c.o
+ .debug_macro   0x00000000       0x51 board_serial.c.o
+ .debug_macro   0x00000000      0x11a board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000       0x1d board_serial.c.o
+ .debug_macro   0x00000000      0x23b board_serial.c.o
+ .debug_macro   0x00000000      0x56a board_serial.c.o
+ .debug_macro   0x00000000       0x9c board_serial.c.o
+ .debug_macro   0x00000000      0x2bf board_serial.c.o
+ .debug_macro   0x00000000       0xd3 board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000       0x34 board_serial.c.o
+ .debug_macro   0x00000000      0xab0 board_serial.c.o
+ .debug_macro   0x00000000       0x17 board_serial.c.o
+ .debug_macro   0x00000000      0x6fa board_serial.c.o
+ .debug_macro   0x00000000       0x22 board_serial.c.o
+ .debug_macro   0x00000000      0x596 board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000      0x29b board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000     0x15a4 board_serial.c.o
+ .debug_macro   0x00000000       0x53 board_serial.c.o
+ .debug_macro   0x00000000      0x347 board_serial.c.o
+ .debug_macro   0x00000000       0x96 board_serial.c.o
+ .debug_macro   0x00000000       0x1c board_serial.c.o
+ .debug_macro   0x00000000       0x9a board_serial.c.o
+ .debug_macro   0x00000000      0x1cf board_serial.c.o
+ .debug_macro   0x00000000      0x16c board_serial.c.o
+ .debug_macro   0x00000000      0x413 board_serial.c.o
+ .debug_macro   0x00000000       0x5f board_serial.c.o
+ .debug_macro   0x00000000       0x1d board_serial.c.o
+ .debug_macro   0x00000000       0xdf board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000      0x13f board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000       0x1c board_serial.c.o
+ .debug_macro   0x00000000      0xdb4 board_serial.c.o
+ .debug_macro   0x00000000       0x16 board_serial.c.o
+ .debug_macro   0x00000000      0x21b board_serial.c.o
+ .debug_macro   0x00000000      0x2b6 board_serial.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x8ec pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x22 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x8b4 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0xc9 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x88 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x14e pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x12c pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x22 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x58 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x22 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x2e pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x9c pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x28f pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x6f pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x12 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x49 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x4c pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x58 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x10c pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x23 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x28 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0xd1 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x98 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x16 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x59 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x11b pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x46 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x27f pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000      0x195 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x8a pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x39 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0xb4 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x41 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x00000000       0x4d pwm_limit/pwm_limit.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .group         0x00000000        0x8 mcu_version.c.o
+ .debug_macro   0x00000000      0x8ec mcu_version.c.o
+ .debug_macro   0x00000000       0x22 mcu_version.c.o
+ .debug_macro   0x00000000      0x8b4 mcu_version.c.o
+ .debug_macro   0x00000000       0xc9 mcu_version.c.o
+ .debug_macro   0x00000000       0x10 mcu_version.c.o
+ .debug_macro   0x00000000       0x88 mcu_version.c.o
+ .debug_macro   0x00000000      0x14e mcu_version.c.o
+ .debug_macro   0x00000000      0x12c mcu_version.c.o
+ .debug_macro   0x00000000       0x6f mcu_version.c.o
+ .debug_macro   0x00000000       0x22 mcu_version.c.o
+ .debug_macro   0x00000000       0x78 mcu_version.c.o
+ .debug_macro   0x00000000       0x28 mcu_version.c.o
+ .debug_macro   0x00000000      0x11b mcu_version.c.o
+ .debug_macro   0x00000000       0x59 mcu_version.c.o
+ .debug_macro   0x00000000       0x4c mcu_version.c.o
+ .debug_macro   0x00000000      0x27f mcu_version.c.o
+ .debug_macro   0x00000000       0x10 mcu_version.c.o
+ .debug_macro   0x00000000      0x195 mcu_version.c.o
+ .debug_macro   0x00000000       0x8a mcu_version.c.o
+ .debug_macro   0x00000000       0x10 mcu_version.c.o
+ .debug_macro   0x00000000       0x10 mcu_version.c.o
+ .debug_macro   0x00000000      0x6cb mcu_version.c.o
+ .debug_macro   0x00000000      0x20a mcu_version.c.o
+ .debug_macro   0x00000000      0xf6f mcu_version.c.o
+ .debug_macro   0x00000000      0x2ab mcu_version.c.o
+ .debug_macro   0x00000000      0x8b5 mcu_version.c.o
+ .debug_macro   0x00000000       0x23 mcu_version.c.o
+ .debug_macro   0x00000000       0x39 mcu_version.c.o
+ .debug_macro   0x00000000       0x78 mcu_version.c.o
+ .debug_macro   0x00000000      0x14e mcu_version.c.o
+ .debug_macro   0x00000000      0x7ca mcu_version.c.o
+ .debug_macro   0x00000000       0xff mcu_version.c.o
+ .debug_macro   0x00000000      0xae7 mcu_version.c.o
+ .debug_macro   0x00000000       0x51 mcu_version.c.o
+ .debug_macro   0x00000000      0x11a mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000       0x1d mcu_version.c.o
+ .debug_macro   0x00000000      0x23b mcu_version.c.o
+ .debug_macro   0x00000000      0x56a mcu_version.c.o
+ .debug_macro   0x00000000       0x9c mcu_version.c.o
+ .debug_macro   0x00000000      0x2bf mcu_version.c.o
+ .debug_macro   0x00000000       0xd3 mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000       0x34 mcu_version.c.o
+ .debug_macro   0x00000000      0xab0 mcu_version.c.o
+ .debug_macro   0x00000000       0x17 mcu_version.c.o
+ .debug_macro   0x00000000      0x6fa mcu_version.c.o
+ .debug_macro   0x00000000       0x22 mcu_version.c.o
+ .debug_macro   0x00000000      0x596 mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000      0x29b mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000     0x15a4 mcu_version.c.o
+ .debug_macro   0x00000000       0x53 mcu_version.c.o
+ .debug_macro   0x00000000      0x347 mcu_version.c.o
+ .debug_macro   0x00000000       0x96 mcu_version.c.o
+ .debug_macro   0x00000000       0x1c mcu_version.c.o
+ .debug_macro   0x00000000       0x9a mcu_version.c.o
+ .debug_macro   0x00000000      0x1cf mcu_version.c.o
+ .debug_macro   0x00000000      0x16c mcu_version.c.o
+ .debug_macro   0x00000000      0x413 mcu_version.c.o
+ .debug_macro   0x00000000       0x5f mcu_version.c.o
+ .debug_macro   0x00000000       0x1d mcu_version.c.o
+ .debug_macro   0x00000000       0xdf mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000      0x13f mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000       0x1c mcu_version.c.o
+ .debug_macro   0x00000000      0xdb4 mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000      0x21b mcu_version.c.o
+ .debug_macro   0x00000000      0x2b6 mcu_version.c.o
+ .debug_macro   0x00000000       0x28 mcu_version.c.o
+ .debug_macro   0x00000000       0x12 mcu_version.c.o
+ .debug_macro   0x00000000       0x22 mcu_version.c.o
+ .debug_macro   0x00000000       0x44 mcu_version.c.o
+ .debug_macro   0x00000000      0x29d mcu_version.c.o
+ .debug_macro   0x00000000       0x58 mcu_version.c.o
+ .debug_macro   0x00000000       0x4c mcu_version.c.o
+ .debug_macro   0x00000000       0x49 mcu_version.c.o
+ .debug_macro   0x00000000      0x106 mcu_version.c.o
+ .debug_macro   0x00000000       0x28 mcu_version.c.o
+ .debug_macro   0x00000000       0xd1 mcu_version.c.o
+ .debug_macro   0x00000000       0x98 mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000       0xb4 mcu_version.c.o
+ .debug_macro   0x00000000       0x41 mcu_version.c.o
+ .debug_macro   0x00000000       0x4d mcu_version.c.o
+ .debug_macro   0x00000000       0xd6 mcu_version.c.o
+ .debug_macro   0x00000000       0x58 mcu_version.c.o
+ .debug_macro   0x00000000       0x2e mcu_version.c.o
+ .debug_macro   0x00000000       0x9c mcu_version.c.o
+ .debug_macro   0x00000000      0x28f mcu_version.c.o
+ .debug_macro   0x00000000       0x22 mcu_version.c.o
+ .debug_macro   0x00000000       0x29 mcu_version.c.o
+ .debug_macro   0x00000000       0x31 mcu_version.c.o
+ .debug_macro   0x00000000      0x183 mcu_version.c.o
+ .debug_macro   0x00000000       0x16 mcu_version.c.o
+ .debug_macro   0x00000000       0x5a mcu_version.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .group         0x00000000        0x8 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x8ec bson/tinybson.c.o
+ .debug_macro   0x00000000       0x22 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x28 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x8b4 bson/tinybson.c.o
+ .debug_macro   0x00000000       0xc9 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x10 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x88 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x14e bson/tinybson.c.o
+ .debug_macro   0x00000000      0x12c bson/tinybson.c.o
+ .debug_macro   0x00000000       0x69 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x12 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x22 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x44 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x29d bson/tinybson.c.o
+ .debug_macro   0x00000000       0x58 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x4c bson/tinybson.c.o
+ .debug_macro   0x00000000       0x49 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x106 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x23 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x28 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x22 bson/tinybson.c.o
+ .debug_macro   0x00000000       0xd1 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x98 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x16 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x59 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x11b bson/tinybson.c.o
+ .debug_macro   0x00000000       0x46 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x27f bson/tinybson.c.o
+ .debug_macro   0x00000000       0x10 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x195 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x8a bson/tinybson.c.o
+ .debug_macro   0x00000000       0x10 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x10 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x39 bson/tinybson.c.o
+ .debug_macro   0x00000000       0xb4 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x41 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x4d bson/tinybson.c.o
+ .debug_macro   0x00000000       0xd6 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x58 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x2e bson/tinybson.c.o
+ .debug_macro   0x00000000       0x9c bson/tinybson.c.o
+ .debug_macro   0x00000000      0x28f bson/tinybson.c.o
+ .debug_macro   0x00000000       0x22 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x29 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x31 bson/tinybson.c.o
+ .debug_macro   0x00000000      0x183 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x16 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x5a bson/tinybson.c.o
+ .debug_macro   0x00000000      0x14d bson/tinybson.c.o
+ .debug_macro   0x00000000       0x59 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x70 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x28 bson/tinybson.c.o
+ .debug_macro   0x00000000       0x5e bson/tinybson.c.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+ .debug_macro   0x00000000      0x8b4 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x10 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x88 circuit_breaker.cpp.o
+ .debug_macro   0x00000000      0x14e circuit_breaker.cpp.o
+ .debug_macro   0x00000000      0x12c circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x28 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x22 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x44 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x58 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x98 circuit_breaker.cpp.o
+ .debug_macro   0x00000000      0x11b circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x46 circuit_breaker.cpp.o
+ .debug_macro   0x00000000      0x195 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0xd6 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x58 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x2e circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x22 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x31 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x16 circuit_breaker.cpp.o
+ .debug_macro   0x00000000       0x5a circuit_breaker.cpp.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .group         0x00000000        0x8 printload.c.o
+ .debug_macro   0x00000000      0x8ec printload.c.o
+ .debug_macro   0x00000000       0x22 printload.c.o
+ .debug_macro   0x00000000      0x8b4 printload.c.o
+ .debug_macro   0x00000000       0xc9 printload.c.o
+ .debug_macro   0x00000000       0x10 printload.c.o
+ .debug_macro   0x00000000       0x88 printload.c.o
+ .debug_macro   0x00000000      0x14e printload.c.o
+ .debug_macro   0x00000000      0x12c printload.c.o
+ .debug_macro   0x00000000       0x69 printload.c.o
+ .debug_macro   0x00000000       0x22 printload.c.o
+ .debug_macro   0x00000000       0x58 printload.c.o
+ .debug_macro   0x00000000       0x4c printload.c.o
+ .debug_macro   0x00000000       0x49 printload.c.o
+ .debug_macro   0x00000000      0x106 printload.c.o
+ .debug_macro   0x00000000       0x23 printload.c.o
+ .debug_macro   0x00000000       0x28 printload.c.o
+ .debug_macro   0x00000000       0x22 printload.c.o
+ .debug_macro   0x00000000       0xd1 printload.c.o
+ .debug_macro   0x00000000       0x98 printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000       0x59 printload.c.o
+ .debug_macro   0x00000000      0x11b printload.c.o
+ .debug_macro   0x00000000       0x46 printload.c.o
+ .debug_macro   0x00000000      0x27f printload.c.o
+ .debug_macro   0x00000000       0x10 printload.c.o
+ .debug_macro   0x00000000      0x195 printload.c.o
+ .debug_macro   0x00000000       0x8a printload.c.o
+ .debug_macro   0x00000000       0x10 printload.c.o
+ .debug_macro   0x00000000       0x10 printload.c.o
+ .debug_macro   0x00000000       0x39 printload.c.o
+ .debug_macro   0x00000000       0xb4 printload.c.o
+ .debug_macro   0x00000000       0x41 printload.c.o
+ .debug_macro   0x00000000       0x4d printload.c.o
+ .debug_macro   0x00000000       0x78 printload.c.o
+ .debug_macro   0x00000000       0x28 printload.c.o
+ .debug_macro   0x00000000      0x6cb printload.c.o
+ .debug_macro   0x00000000      0x20a printload.c.o
+ .debug_macro   0x00000000      0xf6f printload.c.o
+ .debug_macro   0x00000000      0x2ab printload.c.o
+ .debug_macro   0x00000000      0x8b5 printload.c.o
+ .debug_macro   0x00000000       0x78 printload.c.o
+ .debug_macro   0x00000000      0x14e printload.c.o
+ .debug_macro   0x00000000      0x7ca printload.c.o
+ .debug_macro   0x00000000       0xff printload.c.o
+ .debug_macro   0x00000000      0xae7 printload.c.o
+ .debug_macro   0x00000000       0x51 printload.c.o
+ .debug_macro   0x00000000      0x11a printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000       0x1d printload.c.o
+ .debug_macro   0x00000000      0x23b printload.c.o
+ .debug_macro   0x00000000      0x56a printload.c.o
+ .debug_macro   0x00000000       0x9c printload.c.o
+ .debug_macro   0x00000000      0x2bf printload.c.o
+ .debug_macro   0x00000000       0xd3 printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000       0x34 printload.c.o
+ .debug_macro   0x00000000      0xab0 printload.c.o
+ .debug_macro   0x00000000       0x17 printload.c.o
+ .debug_macro   0x00000000      0x6fa printload.c.o
+ .debug_macro   0x00000000       0x22 printload.c.o
+ .debug_macro   0x00000000      0x596 printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000      0x29b printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000     0x15a4 printload.c.o
+ .debug_macro   0x00000000       0x53 printload.c.o
+ .debug_macro   0x00000000      0x347 printload.c.o
+ .debug_macro   0x00000000       0x96 printload.c.o
+ .debug_macro   0x00000000       0x1c printload.c.o
+ .debug_macro   0x00000000       0x9a printload.c.o
+ .debug_macro   0x00000000      0x1cf printload.c.o
+ .debug_macro   0x00000000      0x16c printload.c.o
+ .debug_macro   0x00000000      0x413 printload.c.o
+ .debug_macro   0x00000000       0x5f printload.c.o
+ .debug_macro   0x00000000       0x1d printload.c.o
+ .debug_macro   0x00000000       0xdf printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000      0x13f printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000       0x1c printload.c.o
+ .debug_macro   0x00000000      0xdb4 printload.c.o
+ .debug_macro   0x00000000       0x16 printload.c.o
+ .debug_macro   0x00000000      0x21b printload.c.o
+ .debug_macro   0x00000000      0x2b6 printload.c.o
+ .debug_macro   0x00000000       0x18 printload.c.o
+ .debug_macro   0x00000000       0x10 printload.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000       0x22 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000      0x8b4 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000       0xc9 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000       0x10 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000       0x88 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000      0x14e d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00000000      0x12c d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .group         0x00000000        0x8 err.c.o
+ .debug_macro   0x00000000      0x8ec err.c.o
+ .debug_macro   0x00000000       0x22 err.c.o
+ .debug_macro   0x00000000      0x8b4 err.c.o
+ .debug_macro   0x00000000       0xc9 err.c.o
+ .debug_macro   0x00000000       0x10 err.c.o
+ .debug_macro   0x00000000       0x88 err.c.o
+ .debug_macro   0x00000000      0x14e err.c.o
+ .debug_macro   0x00000000      0x12c err.c.o
+ .debug_macro   0x00000000       0x6f err.c.o
+ .debug_macro   0x00000000       0x22 err.c.o
+ .debug_macro   0x00000000       0x78 err.c.o
+ .debug_macro   0x00000000       0x28 err.c.o
+ .debug_macro   0x00000000      0x11b err.c.o
+ .debug_macro   0x00000000       0x59 err.c.o
+ .debug_macro   0x00000000       0x4c err.c.o
+ .debug_macro   0x00000000      0x27f err.c.o
+ .debug_macro   0x00000000       0x10 err.c.o
+ .debug_macro   0x00000000      0x195 err.c.o
+ .debug_macro   0x00000000       0x8a err.c.o
+ .debug_macro   0x00000000       0x10 err.c.o
+ .debug_macro   0x00000000       0x10 err.c.o
+ .debug_macro   0x00000000      0x6cb err.c.o
+ .debug_macro   0x00000000      0x20a err.c.o
+ .debug_macro   0x00000000      0xf6f err.c.o
+ .debug_macro   0x00000000      0x2ab err.c.o
+ .debug_macro   0x00000000      0x8b5 err.c.o
+ .debug_macro   0x00000000       0x23 err.c.o
+ .debug_macro   0x00000000       0x39 err.c.o
+ .debug_macro   0x00000000       0x78 err.c.o
+ .debug_macro   0x00000000      0x14e err.c.o
+ .debug_macro   0x00000000      0x7ca err.c.o
+ .debug_macro   0x00000000       0xff err.c.o
+ .debug_macro   0x00000000      0xae7 err.c.o
+ .debug_macro   0x00000000       0x51 err.c.o
+ .debug_macro   0x00000000      0x11a err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000       0x1d err.c.o
+ .debug_macro   0x00000000      0x23b err.c.o
+ .debug_macro   0x00000000      0x56a err.c.o
+ .debug_macro   0x00000000       0x9c err.c.o
+ .debug_macro   0x00000000      0x2bf err.c.o
+ .debug_macro   0x00000000       0xd3 err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000       0x34 err.c.o
+ .debug_macro   0x00000000      0xab0 err.c.o
+ .debug_macro   0x00000000       0x17 err.c.o
+ .debug_macro   0x00000000      0x6fa err.c.o
+ .debug_macro   0x00000000       0x22 err.c.o
+ .debug_macro   0x00000000      0x596 err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000      0x29b err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000     0x15a4 err.c.o
+ .debug_macro   0x00000000       0x53 err.c.o
+ .debug_macro   0x00000000      0x347 err.c.o
+ .debug_macro   0x00000000       0x96 err.c.o
+ .debug_macro   0x00000000       0x1c err.c.o
+ .debug_macro   0x00000000       0x9a err.c.o
+ .debug_macro   0x00000000      0x1cf err.c.o
+ .debug_macro   0x00000000      0x16c err.c.o
+ .debug_macro   0x00000000      0x413 err.c.o
+ .debug_macro   0x00000000       0x5f err.c.o
+ .debug_macro   0x00000000       0x1d err.c.o
+ .debug_macro   0x00000000       0xdf err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000      0x13f err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000       0x1c err.c.o
+ .debug_macro   0x00000000      0xdb4 err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000      0x21b err.c.o
+ .debug_macro   0x00000000      0x2b6 err.c.o
+ .debug_macro   0x00000000       0x12 err.c.o
+ .debug_macro   0x00000000       0x5e err.c.o
+ .debug_macro   0x00000000       0x28 err.c.o
+ .debug_macro   0x00000000       0x28 err.c.o
+ .debug_macro   0x00000000       0x22 err.c.o
+ .debug_macro   0x00000000       0x44 err.c.o
+ .debug_macro   0x00000000      0x29d err.c.o
+ .debug_macro   0x00000000       0x58 err.c.o
+ .debug_macro   0x00000000       0x4c err.c.o
+ .debug_macro   0x00000000       0x49 err.c.o
+ .debug_macro   0x00000000      0x106 err.c.o
+ .debug_macro   0x00000000       0x28 err.c.o
+ .debug_macro   0x00000000       0xd1 err.c.o
+ .debug_macro   0x00000000       0x98 err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000       0xb4 err.c.o
+ .debug_macro   0x00000000       0x41 err.c.o
+ .debug_macro   0x00000000       0x4d err.c.o
+ .debug_macro   0x00000000       0x58 err.c.o
+ .debug_macro   0x00000000       0x2e err.c.o
+ .debug_macro   0x00000000       0x9c err.c.o
+ .debug_macro   0x00000000      0x28f err.c.o
+ .debug_macro   0x00000000       0x22 err.c.o
+ .debug_macro   0x00000000       0x29 err.c.o
+ .debug_macro   0x00000000       0x31 err.c.o
+ .debug_macro   0x00000000      0x183 err.c.o
+ .debug_macro   0x00000000       0x16 err.c.o
+ .debug_macro   0x00000000       0x5a err.c.o
+ .debug_macro   0x00000000       0xd6 err.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x8ec up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x22 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x8b4 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0xc9 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x10 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x88 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x14e up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x12c up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x6f up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x22 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x78 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x28 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x11b up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x59 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x4c up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x27f up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x10 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x195 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x8a up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x10 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x10 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x6cb up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x20a up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0xf6f up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x2ab up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x8b5 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x23 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x39 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x78 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x14e up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x7ca up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0xff up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0xae7 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x51 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x11a up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x1d up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x23b up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x56a up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x9c up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x2bf up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0xd3 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x34 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0xab0 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x17 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x6fa up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x22 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x596 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x29b up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000     0x15a4 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x53 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x347 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x96 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x1c up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x9a up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x1cf up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x16c up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x413 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x5f up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x1d up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0xdf up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x13f up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x1c up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0xdb4 up_cxxinitialize.c.o
+ .debug_macro   0x00000000       0x16 up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x21b up_cxxinitialize.c.o
+ .debug_macro   0x00000000      0x2b6 up_cxxinitialize.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .group         0x00000000        0x8 hx_stream.c.o
+ .debug_macro   0x00000000      0x8ec hx_stream.c.o
+ .debug_macro   0x00000000       0x22 hx_stream.c.o
+ .debug_macro   0x00000000      0x8b4 hx_stream.c.o
+ .debug_macro   0x00000000       0xc9 hx_stream.c.o
+ .debug_macro   0x00000000       0x10 hx_stream.c.o
+ .debug_macro   0x00000000       0x88 hx_stream.c.o
+ .debug_macro   0x00000000      0x14e hx_stream.c.o
+ .debug_macro   0x00000000      0x12c hx_stream.c.o
+ .debug_macro   0x00000000       0x6f hx_stream.c.o
+ .debug_macro   0x00000000       0x58 hx_stream.c.o
+ .debug_macro   0x00000000       0x22 hx_stream.c.o
+ .debug_macro   0x00000000       0xd1 hx_stream.c.o
+ .debug_macro   0x00000000      0x6c1 hx_stream.c.o
+ .debug_macro   0x00000000       0x22 hx_stream.c.o
+ .debug_macro   0x00000000       0x58 hx_stream.c.o
+ .debug_macro   0x00000000       0x4c hx_stream.c.o
+ .debug_macro   0x00000000       0x49 hx_stream.c.o
+ .debug_macro   0x00000000      0x106 hx_stream.c.o
+ .debug_macro   0x00000000       0x23 hx_stream.c.o
+ .debug_macro   0x00000000       0x28 hx_stream.c.o
+ .debug_macro   0x00000000       0x98 hx_stream.c.o
+ .debug_macro   0x00000000       0x16 hx_stream.c.o
+ .debug_macro   0x00000000       0x59 hx_stream.c.o
+ .debug_macro   0x00000000      0x11b hx_stream.c.o
+ .debug_macro   0x00000000       0x46 hx_stream.c.o
+ .debug_macro   0x00000000      0x27f hx_stream.c.o
+ .debug_macro   0x00000000       0x10 hx_stream.c.o
+ .debug_macro   0x00000000      0x195 hx_stream.c.o
+ .debug_macro   0x00000000       0x8a hx_stream.c.o
+ .debug_macro   0x00000000       0x10 hx_stream.c.o
+ .debug_macro   0x00000000       0x10 hx_stream.c.o
+ .debug_macro   0x00000000       0x39 hx_stream.c.o
+ .debug_macro   0x00000000       0xb4 hx_stream.c.o
+ .debug_macro   0x00000000       0x41 hx_stream.c.o
+ .debug_macro   0x00000000       0x4d hx_stream.c.o
+ .debug_macro   0x00000000       0x28 hx_stream.c.o
+ .debug_macro   0x00000000       0x18 hx_stream.c.o
+ .debug_macro   0x00000000       0x22 hx_stream.c.o
+ .debug_macro   0x00000000       0x44 hx_stream.c.o
+ .debug_macro   0x00000000      0x29d hx_stream.c.o
+ .debug_macro   0x00000000       0xd6 hx_stream.c.o
+ .debug_macro   0x00000000       0x58 hx_stream.c.o
+ .debug_macro   0x00000000       0x2e hx_stream.c.o
+ .debug_macro   0x00000000       0x9c hx_stream.c.o
+ .debug_macro   0x00000000      0x28f hx_stream.c.o
+ .debug_macro   0x00000000       0x22 hx_stream.c.o
+ .debug_macro   0x00000000       0x29 hx_stream.c.o
+ .debug_macro   0x00000000       0x31 hx_stream.c.o
+ .debug_macro   0x00000000      0x183 hx_stream.c.o
+ .debug_macro   0x00000000       0x16 hx_stream.c.o
+ .debug_macro   0x00000000       0x5a hx_stream.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD perf_counter.c.o
+LOAD conversions.c.o
+LOAD cpuload.c.o
+LOAD getopt_long.c.o
+LOAD pid/pid.c.o
+LOAD airspeed.c.o
+LOAD mavlink_log.c.o
+LOAD rc_check.c.o
+LOAD otp.c.o
+LOAD board_serial.c.o
+LOAD pwm_limit/pwm_limit.c.o
+LOAD mcu_version.c.o
+LOAD bson/tinybson.c.o
+LOAD circuit_breaker.cpp.o
+LOAD printload.c.o
+LOAD d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+LOAD err.c.o
+LOAD up_cxxinitialize.c.o
+LOAD hx_stream.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 perf_counter.c.o
+ .text          0x00000000        0x0 conversions.c.o
+ .text          0x00000000        0x0 cpuload.c.o
+ .text          0x00000000        0x0 getopt_long.c.o
+ .text          0x00000000        0x0 pid/pid.c.o
+ .text          0x00000000        0x0 airspeed.c.o
+ .text          0x00000000        0x0 mavlink_log.c.o
+ .text          0x00000000        0x0 rc_check.c.o
+ .text          0x00000000        0x0 otp.c.o
+ .text          0x00000000        0x0 board_serial.c.o
+ .text          0x00000000        0x0 pwm_limit/pwm_limit.c.o
+ .text          0x00000000        0x0 mcu_version.c.o
+ .text          0x00000000        0x0 bson/tinybson.c.o
+ .text          0x00000000        0x0 circuit_breaker.cpp.o
+ .text          0x00000000        0x0 printload.c.o
+ .text          0x00000000        0x0 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .text          0x00000000        0x0 err.c.o
+ .text          0x00000000        0x0 up_cxxinitialize.c.o
+ .text          0x00000000        0x0 hx_stream.c.o
+ *(.gnu.warning)
+
+.text.perf_alloc
+                0x00000000       0x40
+ .text.perf_alloc
+                0x00000000       0x40 perf_counter.c.o
+                0x00000000                perf_alloc
+
+.text.perf_alloc_once
+                0x00000000       0x38
+ .text.perf_alloc_once
+                0x00000000       0x38 perf_counter.c.o
+                0x00000000                perf_alloc_once
+
+.text.perf_free
+                0x00000000       0x1c
+ .text.perf_free
+                0x00000000       0x1c perf_counter.c.o
+                0x00000000                perf_free
+
+.text.perf_count
+                0x00000000       0xf4
+ .text.perf_count
+                0x00000000       0xf4 perf_counter.c.o
+                0x00000000                perf_count
+
+.text.perf_begin
+                0x00000000       0x16
+ .text.perf_begin
+                0x00000000       0x16 perf_counter.c.o
+                0x00000000                perf_begin
+
+.text.perf_end  0x00000000       0xd0
+ .text.perf_end
+                0x00000000       0xd0 perf_counter.c.o
+                0x00000000                perf_end
+
+.text.perf_set  0x00000000       0xc0
+ .text.perf_set
+                0x00000000       0xc0 perf_counter.c.o
+                0x00000000                perf_set
+
+.text.perf_cancel
+                0x00000000       0x12
+ .text.perf_cancel
+                0x00000000       0x12 perf_counter.c.o
+                0x00000000                perf_cancel
+
+.text.perf_reset
+                0x00000000       0x42
+ .text.perf_reset
+                0x00000000       0x42 perf_counter.c.o
+                0x00000000                perf_reset
+
+.text.perf_print_counter_fd
+                0x00000000      0x14c
+ .text.perf_print_counter_fd
+                0x00000000      0x14c perf_counter.c.o
+                0x00000000                perf_print_counter_fd
+
+.text.perf_print_counter
+                0x00000000        0x8
+ .text.perf_print_counter
+                0x00000000        0x8 perf_counter.c.o
+                0x00000000                perf_print_counter
+
+.text.perf_event_count
+                0x00000000       0x1a
+ .text.perf_event_count
+                0x00000000       0x1a perf_counter.c.o
+                0x00000000                perf_event_count
+
+.text.perf_print_all
+                0x00000000       0x1c
+ .text.perf_print_all
+                0x00000000       0x1c perf_counter.c.o
+                0x00000000                perf_print_all
+
+.text.perf_print_latency
+                0x00000000       0x58
+ .text.perf_print_latency
+                0x00000000       0x58 perf_counter.c.o
+                0x00000000                perf_print_latency
+
+.text.perf_reset_all
+                0x00000000       0x34
+ .text.perf_reset_all
+                0x00000000       0x34 perf_counter.c.o
+                0x00000000                perf_reset_all
+
+.text.int16_t_from_bytes
+                0x00000000       0x14
+ .text.int16_t_from_bytes
+                0x00000000       0x14 conversions.c.o
+                0x00000000                int16_t_from_bytes
+
+.text.cpuload_initialize_once
+                0x00000000       0x64
+ .text.cpuload_initialize_once
+                0x00000000       0x64 cpuload.c.o
+                0x00000000                cpuload_initialize_once
+
+.text.sched_note_start
+                0x00000000       0x40
+ .text.sched_note_start
+                0x00000000       0x40 cpuload.c.o
+                0x00000000                sched_note_start
+
+.text.sched_note_stop
+                0x00000000       0x44
+ .text.sched_note_stop
+                0x00000000       0x44 cpuload.c.o
+                0x00000000                sched_note_stop
+
+.text.sched_note_switch
+                0x00000000       0x5c
+ .text.sched_note_switch
+                0x00000000       0x5c cpuload.c.o
+                0x00000000                sched_note_switch
+
+.text.reverse_argv_elements
+                0x00000000       0x24
+ .text.reverse_argv_elements
+                0x00000000       0x24 getopt_long.c.o
+
+.text.is_option
+                0x00000000       0x1c
+ .text.is_option
+                0x00000000       0x1c getopt_long.c.o
+
+.text.getopt_internal
+                0x00000000      0x474
+ .text.getopt_internal
+                0x00000000      0x474 getopt_long.c.o
+
+.text.getopt_long
+                0x00000000       0x12
+ .text.getopt_long
+                0x00000000       0x12 getopt_long.c.o
+                0x00000000                getopt_long
+
+.text.getopt_long_only
+                0x00000000       0x12
+ .text.getopt_long_only
+                0x00000000       0x12 getopt_long.c.o
+                0x00000000                getopt_long_only
+
+.text.pid_init  0x00000000       0x1a
+ .text.pid_init
+                0x00000000       0x1a pid/pid.c.o
+                0x00000000                pid_init
+
+.text.pid_set_parameters
+                0x00000000       0x86
+ .text.pid_set_parameters
+                0x00000000       0x86 pid/pid.c.o
+                0x00000000                pid_set_parameters
+
+.text.pid_calculate
+                0x00000000      0x188
+ .text.pid_calculate
+                0x00000000      0x188 pid/pid.c.o
+                0x00000000                pid_calculate
+
+.text.pid_reset_integral
+                0x00000000        0x6
+ .text.pid_reset_integral
+                0x00000000        0x6 pid/pid.c.o
+                0x00000000                pid_reset_integral
+
+.text.calc_indicated_airspeed
+                0x00000000       0x34
+ .text.calc_indicated_airspeed
+                0x00000000       0x34 airspeed.c.o
+                0x00000000                calc_indicated_airspeed
+
+.text.calc_true_airspeed_from_indicated
+                0x00000000       0x40
+ .text.calc_true_airspeed_from_indicated
+                0x00000000       0x40 airspeed.c.o
+                0x00000000                calc_true_airspeed_from_indicated
+
+.text.calc_true_airspeed
+                0x00000000       0x98
+ .text.calc_true_airspeed
+                0x00000000       0x98 airspeed.c.o
+                0x00000000                calc_true_airspeed
+
+.text.get_air_density
+                0x00000000       0x20
+ .text.get_air_density
+                0x00000000       0x20 airspeed.c.o
+                0x00000000                get_air_density
+
+.text.mavlink_vasprintf
+                0x00000000       0x44
+ .text.mavlink_vasprintf
+                0x00000000       0x44 mavlink_log.c.o
+                0x00000000                mavlink_vasprintf
+
+.text.rc_calibration_check
+                0x00000000      0x32c
+ .text.rc_calibration_check
+                0x00000000      0x32c rc_check.c.o
+                0x00000000                rc_calibration_check
+
+.text.F_GetStatus
+                0x00000000       0x34
+ .text.F_GetStatus
+                0x00000000       0x34 otp.c.o
+
+.text.val_read  0x00000000       0x22
+ .text.val_read
+                0x00000000       0x22 otp.c.o
+                0x00000000                val_read
+
+.text.F_unlock  0x00000000       0x1c
+ .text.F_unlock
+                0x00000000       0x1c otp.c.o
+                0x00000000                F_unlock
+
+.text.F_lock    0x00000000       0x10
+ .text.F_lock   0x00000000       0x10 otp.c.o
+                0x00000000                F_lock
+
+.text.F_write_byte
+                0x00000000       0x84
+ .text.F_write_byte
+                0x00000000       0x84 otp.c.o
+                0x00000000                F_write_byte
+
+.text.lock_otp  0x00000000        0xe
+ .text.lock_otp
+                0x00000000        0xe otp.c.o
+                0x00000000                lock_otp
+
+.text.F_write_word
+                0x00000000       0x1e
+ .text.F_write_word
+                0x00000000       0x1e otp.c.o
+                0x00000000                F_write_word
+
+.text.write_otp
+                0x00000000       0xb0
+ .text.write_otp
+                0x00000000       0xb0 otp.c.o
+                0x00000000                write_otp
+
+.text.get_board_serial
+                0x00000000       0x60
+ .text.get_board_serial
+                0x00000000       0x60 board_serial.c.o
+                0x00000000                get_board_serial
+
+.text.pwm_limit_init
+                0x00000000        0xe
+ .text.pwm_limit_init
+                0x00000000        0xe pwm_limit/pwm_limit.c.o
+                0x00000000                pwm_limit_init
+
+.text.pwm_limit_calc
+                0x00000000      0x228
+ .text.pwm_limit_calc
+                0x00000000      0x228 pwm_limit/pwm_limit.c.o
+                0x00000000                pwm_limit_calc
+
+.text.mcu_unique_id
+                0x00000000       0x20
+ .text.mcu_unique_id
+                0x00000000       0x20 mcu_version.c.o
+                0x00000000                mcu_unique_id
+
+.text.mcu_version
+                0x00000000       0x84
+ .text.mcu_version
+                0x00000000       0x84 mcu_version.c.o
+                0x00000000                mcu_version
+
+.text.read_x    0x00000000       0x50
+ .text.read_x   0x00000000       0x50 bson/tinybson.c.o
+
+.text.write_x   0x00000000       0x66
+ .text.write_x  0x00000000       0x66 bson/tinybson.c.o
+
+.text.write_int8
+                0x00000000       0x16
+ .text.write_int8
+                0x00000000       0x16 bson/tinybson.c.o
+
+.text.write_name
+                0x00000000       0x2a
+ .text.write_name
+                0x00000000       0x2a bson/tinybson.c.o
+
+.text.bson_decoder_init_file
+                0x00000000       0x30
+ .text.bson_decoder_init_file
+                0x00000000       0x30 bson/tinybson.c.o
+                0x00000000                bson_decoder_init_file
+
+.text.bson_decoder_init_buf
+                0x00000000       0x54
+ .text.bson_decoder_init_buf
+                0x00000000       0x54 bson/tinybson.c.o
+                0x00000000                bson_decoder_init_buf
+
+.text.bson_decoder_next
+                0x00000000      0x138
+ .text.bson_decoder_next
+                0x00000000      0x138 bson/tinybson.c.o
+                0x00000000                bson_decoder_next
+
+.text.bson_decoder_copy_data
+                0x00000000       0x20
+ .text.bson_decoder_copy_data
+                0x00000000       0x20 bson/tinybson.c.o
+                0x00000000                bson_decoder_copy_data
+
+.text.bson_decoder_data_pending
+                0x00000000        0x4
+ .text.bson_decoder_data_pending
+                0x00000000        0x4 bson/tinybson.c.o
+                0x00000000                bson_decoder_data_pending
+
+.text.bson_encoder_init_file
+                0x00000000       0x26
+ .text.bson_encoder_init_file
+                0x00000000       0x26 bson/tinybson.c.o
+                0x00000000                bson_encoder_init_file
+
+.text.bson_encoder_init_buf
+                0x00000000       0x3c
+ .text.bson_encoder_init_buf
+                0x00000000       0x3c bson/tinybson.c.o
+                0x00000000                bson_encoder_init_buf
+
+.text.bson_encoder_buf_size
+                0x00000000       0x14
+ .text.bson_encoder_buf_size
+                0x00000000       0x14 bson/tinybson.c.o
+                0x00000000                bson_encoder_buf_size
+
+.text.bson_encoder_fini
+                0x00000000       0x3c
+ .text.bson_encoder_fini
+                0x00000000       0x3c bson/tinybson.c.o
+                0x00000000                bson_encoder_fini
+
+.text.bson_encoder_buf_data
+                0x00000000        0xc
+ .text.bson_encoder_buf_data
+                0x00000000        0xc bson/tinybson.c.o
+                0x00000000                bson_encoder_buf_data
+
+.text.bson_encoder_append_bool
+                0x00000000       0x38
+ .text.bson_encoder_append_bool
+                0x00000000       0x38 bson/tinybson.c.o
+                0x00000000                bson_encoder_append_bool
+
+.text.bson_encoder_append_int
+                0x00000000       0x72
+ .text.bson_encoder_append_int
+                0x00000000       0x72 bson/tinybson.c.o
+                0x00000000                bson_encoder_append_int
+
+.text.bson_encoder_append_double
+                0x00000000       0x50
+ .text.bson_encoder_append_double
+                0x00000000       0x50 bson/tinybson.c.o
+                0x00000000                bson_encoder_append_double
+
+.text.bson_encoder_append_string
+                0x00000000       0x58
+ .text.bson_encoder_append_string
+                0x00000000       0x58 bson/tinybson.c.o
+                0x00000000                bson_encoder_append_string
+
+.text.bson_encoder_append_binary
+                0x00000000       0x5c
+ .text.bson_encoder_append_binary
+                0x00000000       0x5c bson/tinybson.c.o
+                0x00000000                bson_encoder_append_binary
+
+.text.circuit_breaker_enabled
+                0x00000000       0x2a
+ .text.circuit_breaker_enabled
+                0x00000000       0x2a circuit_breaker.cpp.o
+                0x00000000                circuit_breaker_enabled
+
+.text.init_print_load_s
+                0x00000000       0x32
+ .text.init_print_load_s
+                0x00000000       0x32 printload.c.o
+                0x00000000                init_print_load_s
+
+.text.print_load
+                0x00000000      0x3c8
+ .text.print_load
+                0x00000000      0x3c8 printload.c.o
+                0x00000000                print_load
+
+.text.warnerr_core
+                0x00000000       0x6c
+ .text.warnerr_core
+                0x00000000       0x6c err.c.o
+
+.text.getprogname
+                0x00000000        0xc
+ .text.getprogname
+                0x00000000        0xc err.c.o
+                0x00000000                getprogname
+
+.text.verr      0x00000000       0x1c
+ .text.verr     0x00000000       0x1c err.c.o
+                0x00000000                verr
+
+.text.err       0x00000000       0x10
+ .text.err      0x00000000       0x10 err.c.o
+                0x00000000                err
+
+.text.verrc     0x00000000       0x14
+ .text.verrc    0x00000000       0x14 err.c.o
+                0x00000000                verrc
+
+.text.errc      0x00000000       0x10
+ .text.errc     0x00000000       0x10 err.c.o
+                0x00000000                errc
+
+.text.verrx     0x00000000       0x12
+ .text.verrx    0x00000000       0x12 err.c.o
+                0x00000000                verrx
+
+.text.errx      0x00000000       0x10
+ .text.errx     0x00000000       0x10 err.c.o
+                0x00000000                errx
+
+.text.vwarn     0x00000000       0x18
+ .text.vwarn    0x00000000       0x18 err.c.o
+                0x00000000                vwarn
+
+.text.warn      0x00000000       0x1a
+ .text.warn     0x00000000       0x1a err.c.o
+                0x00000000                warn
+
+.text.warnc     0x00000000       0x1a
+ .text.warnc    0x00000000       0x1a err.c.o
+                0x00000000                warnc
+
+.text.vwarnc    0x00000000        0x4
+ .text.vwarnc   0x00000000        0x4 err.c.o
+                0x00000000                vwarnc
+
+.text.vwarnx    0x00000000        0xe
+ .text.vwarnx   0x00000000        0xe err.c.o
+                0x00000000                vwarnx
+
+.text.warnx     0x00000000       0x1a
+ .text.warnx    0x00000000       0x1a err.c.o
+                0x00000000                warnx
+
+.text.up_cxxinitialize
+                0x00000000       0x30
+ .text.up_cxxinitialize
+                0x00000000       0x30 up_cxxinitialize.c.o
+                0x00000000                up_cxxinitialize
+
+.text.hx_stream_init
+                0x00000000       0x24
+ .text.hx_stream_init
+                0x00000000       0x24 hx_stream.c.o
+                0x00000000                hx_stream_init
+
+.text.hx_stream_free
+                0x00000000       0x20
+ .text.hx_stream_free
+                0x00000000       0x20 hx_stream.c.o
+                0x00000000                hx_stream_free
+
+.text.hx_stream_set_counters
+                0x00000000        0x8
+ .text.hx_stream_set_counters
+                0x00000000        0x8 hx_stream.c.o
+                0x00000000                hx_stream_set_counters
+
+.text.hx_stream_reset
+                0x00000000       0x12
+ .text.hx_stream_reset
+                0x00000000       0x12 hx_stream.c.o
+                0x00000000                hx_stream_reset
+
+.text.hx_stream_start
+                0x00000000       0x26
+ .text.hx_stream_start
+                0x00000000       0x26 hx_stream.c.o
+                0x00000000                hx_stream_start
+
+.text.hx_stream_send_next
+                0x00000000       0x78
+ .text.hx_stream_send_next
+                0x00000000       0x78 hx_stream.c.o
+                0x00000000                hx_stream_send_next
+
+.text.hx_stream_send
+                0x00000000       0x4c
+ .text.hx_stream_send
+                0x00000000       0x4c hx_stream.c.o
+                0x00000000                hx_stream_send
+
+.text.hx_stream_rx
+                0x00000000       0x8e
+ .text.hx_stream_rx
+                0x00000000       0x8e hx_stream.c.o
+                0x00000000                hx_stream_rx
+
+.fini
+ *(SORT(.fini))
+
+.rodata
+ *(.rodata)
+
+.rodata.str1.1  0x00000000      0x543
+ .rodata.str1.1
+                0x00000000       0xda perf_counter.c.o
+ .rodata.str1.1
+                0x000000da       0x8a getopt_long.c.o
+ .rodata.str1.1
+                0x00000164      0x1ae rc_check.c.o
+ .rodata.str1.1
+                0x00000312       0x85 otp.c.o
+ .rodata.str1.1
+                0x00000397       0x1e mcu_version.c.o
+ .rodata.str1.1
+                0x000003b5      0x15b printload.c.o
+ .rodata.str1.1
+                0x00000510       0x29 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .rodata.str1.1
+                0x00000539        0xa err.c.o
+
+.rodata.CSWTCH.3
+                0x00000000       0x24
+ .rodata.CSWTCH.3
+                0x00000000       0x24 printload.c.o
+
+.rodata.px4_git_version_binary
+                0x00000000        0x8
+ .rodata.px4_git_version_binary
+                0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+                0x00000000                px4_git_version_binary
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 perf_counter.c.o
+ .data          0x00000000        0x0 conversions.c.o
+ .data          0x00000000        0x0 cpuload.c.o
+ .data          0x00000000        0x0 getopt_long.c.o
+ .data          0x00000000        0x0 pid/pid.c.o
+ .data          0x00000000        0x0 airspeed.c.o
+ .data          0x00000000        0x0 mavlink_log.c.o
+ .data          0x00000000        0x0 rc_check.c.o
+ .data          0x00000000        0x0 otp.c.o
+ .data          0x00000000        0x0 board_serial.c.o
+ .data          0x00000000        0x0 pwm_limit/pwm_limit.c.o
+ .data          0x00000000        0x0 mcu_version.c.o
+ .data          0x00000000        0x0 bson/tinybson.c.o
+ .data          0x00000000        0x0 circuit_breaker.cpp.o
+ .data          0x00000000        0x0 printload.c.o
+ .data          0x00000000        0x0 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .data          0x00000000        0x0 err.c.o
+ .data          0x00000000        0x0 up_cxxinitialize.c.o
+ .data          0x00000000        0x0 hx_stream.c.o
+
+.data.optopt    0x00000000        0x4
+ .data.optopt   0x00000000        0x4 getopt_long.c.o
+                0x00000000                optopt
+
+.data.opterr    0x00000000        0x4
+ .data.opterr   0x00000000        0x4 getopt_long.c.o
+                0x00000000                opterr
+
+.data.px4_git_version
+                0x00000000        0x4
+ .data.px4_git_version
+                0x00000000        0x4 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+                0x00000000                px4_git_version
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 perf_counter.c.o
+ .bss           0x00000000        0x0 conversions.c.o
+ .bss           0x00000000        0x0 cpuload.c.o
+ .bss           0x00000000        0x0 getopt_long.c.o
+ .bss           0x00000000        0x0 pid/pid.c.o
+ .bss           0x00000000        0x0 airspeed.c.o
+ .bss           0x00000000        0x0 mavlink_log.c.o
+ .bss           0x00000000        0x0 rc_check.c.o
+ .bss           0x00000000        0x0 otp.c.o
+ .bss           0x00000000        0x0 board_serial.c.o
+ .bss           0x00000000        0x0 pwm_limit/pwm_limit.c.o
+ .bss           0x00000000        0x0 mcu_version.c.o
+ .bss           0x00000000        0x0 bson/tinybson.c.o
+ .bss           0x00000000        0x0 circuit_breaker.cpp.o
+ .bss           0x00000000        0x0 printload.c.o
+ .bss           0x00000000        0x0 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .bss           0x00000000        0x0 err.c.o
+ .bss           0x00000000        0x0 up_cxxinitialize.c.o
+ .bss           0x00000000        0x0 hx_stream.c.o
+ *(COMMON)
+
+.bss.perf_counters
+                0x00000000        0x8
+ .bss.perf_counters
+                0x00000000        0x8 perf_counter.c.o
+
+.bss.system_load
+                0x00000000      0x318
+ .bss.system_load
+                0x00000000      0x318 cpuload.c.o
+                0x00000000                system_load
+
+.bss.optwhere.5474
+                0x00000000        0x4
+ .bss.optwhere.5474
+                0x00000000        0x4 getopt_long.c.o
+
+.bss.optind     0x00000000        0x4
+ .bss.optind    0x00000000        0x4 getopt_long.c.o
+                0x00000000                optind
+
+.bss.optarg     0x00000000        0x4
+ .bss.optarg    0x00000000        0x4 getopt_long.c.o
+                0x00000000                optarg
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x863
+ *(.comment)
+ .comment       0x00000000       0x71 perf_counter.c.o
+ .comment       0x00000071       0x71 conversions.c.o
+ .comment       0x000000e2       0x71 cpuload.c.o
+ .comment       0x00000153       0x71 getopt_long.c.o
+ .comment       0x000001c4       0x71 pid/pid.c.o
+ .comment       0x00000235       0x71 airspeed.c.o
+ .comment       0x000002a6       0x71 mavlink_log.c.o
+ .comment       0x00000317       0x71 rc_check.c.o
+ .comment       0x00000388       0x71 otp.c.o
+ .comment       0x000003f9       0x71 board_serial.c.o
+ .comment       0x0000046a       0x71 pwm_limit/pwm_limit.c.o
+ .comment       0x000004db       0x71 mcu_version.c.o
+ .comment       0x0000054c       0x71 bson/tinybson.c.o
+ .comment       0x000005bd       0x71 circuit_breaker.cpp.o
+ .comment       0x0000062e       0x71 printload.c.o
+ .comment       0x0000069f       0x71 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .comment       0x00000710       0x71 err.c.o
+ .comment       0x00000781       0x71 up_cxxinitialize.c.o
+ .comment       0x000007f2       0x71 hx_stream.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 perf_counter.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 conversions.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 cpuload.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 cpuload.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 cpuload.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 getopt_long.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 getopt_long.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 airspeed.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 airspeed.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 airspeed.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 airspeed.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mavlink_log.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mavlink_log.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mavlink_log.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mavlink_log.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mavlink_log.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 rc_check.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 rc_check.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 rc_check.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 rc_check.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 rc_check.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 otp.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 board_serial.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 board_serial.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 board_serial.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 pwm_limit/pwm_limit.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bson/tinybson.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 circuit_breaker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 err.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 hx_stream.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 hx_stream.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x4b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x90 perf_counter.c.o
+ .debug_aranges
+                0x00000090       0x20 conversions.c.o
+ .debug_aranges
+                0x000000b0       0x38 cpuload.c.o
+ .debug_aranges
+                0x000000e8       0x40 getopt_long.c.o
+ .debug_aranges
+                0x00000128       0x38 pid/pid.c.o
+ .debug_aranges
+                0x00000160       0x38 airspeed.c.o
+ .debug_aranges
+                0x00000198       0x20 mavlink_log.c.o
+ .debug_aranges
+                0x000001b8       0x20 rc_check.c.o
+ .debug_aranges
+                0x000001d8       0x58 otp.c.o
+ .debug_aranges
+                0x00000230       0x20 board_serial.c.o
+ .debug_aranges
+                0x00000250       0x28 pwm_limit/pwm_limit.c.o
+ .debug_aranges
+                0x00000278       0x28 mcu_version.c.o
+ .debug_aranges
+                0x000002a0       0xb0 bson/tinybson.c.o
+ .debug_aranges
+                0x00000350       0x20 circuit_breaker.cpp.o
+ .debug_aranges
+                0x00000370       0x28 printload.c.o
+ .debug_aranges
+                0x00000398       0x18 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_aranges
+                0x000003b0       0x88 err.c.o
+ .debug_aranges
+                0x00000438       0x20 up_cxxinitialize.c.o
+ .debug_aranges
+                0x00000458       0x58 hx_stream.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x90f2
+ *(.debug_info)
+ .debug_info    0x00000000      0xaa4 perf_counter.c.o
+ .debug_info    0x00000aa4      0x117 conversions.c.o
+ .debug_info    0x00000bbb      0xf40 cpuload.c.o
+ .debug_info    0x00001afb     0x1420 getopt_long.c.o
+ .debug_info    0x00002f1b      0x522 pid/pid.c.o
+ .debug_info    0x0000343d      0x2f3 airspeed.c.o
+ .debug_info    0x00003730      0x2c0 mavlink_log.c.o
+ .debug_info    0x000039f0      0x791 rc_check.c.o
+ .debug_info    0x00004181      0x504 otp.c.o
+ .debug_info    0x00004685      0x1a8 board_serial.c.o
+ .debug_info    0x0000482d      0x3e4 pwm_limit/pwm_limit.c.o
+ .debug_info    0x00004c11      0x186 mcu_version.c.o
+ .debug_info    0x00004d97     0x11e5 bson/tinybson.c.o
+ .debug_info    0x00005f7c      0x2be circuit_breaker.cpp.o
+ .debug_info    0x0000623a     0x11f2 printload.c.o
+ .debug_info    0x0000742c       0xa5 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_info    0x000074d1     0x1423 err.c.o
+ .debug_info    0x000088f4      0x120 up_cxxinitialize.c.o
+ .debug_info    0x00008a14      0x6de hx_stream.c.o
+
+.debug_abbrev   0x00000000     0x2172
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x302 perf_counter.c.o
+ .debug_abbrev  0x00000302       0xa5 conversions.c.o
+ .debug_abbrev  0x000003a7      0x221 cpuload.c.o
+ .debug_abbrev  0x000005c8      0x2c1 getopt_long.c.o
+ .debug_abbrev  0x00000889      0x182 pid/pid.c.o
+ .debug_abbrev  0x00000a0b      0x124 airspeed.c.o
+ .debug_abbrev  0x00000b2f      0x152 mavlink_log.c.o
+ .debug_abbrev  0x00000c81      0x174 rc_check.c.o
+ .debug_abbrev  0x00000df5      0x1f8 otp.c.o
+ .debug_abbrev  0x00000fed      0x107 board_serial.c.o
+ .debug_abbrev  0x000010f4      0x177 pwm_limit/pwm_limit.c.o
+ .debug_abbrev  0x0000126b       0xda mcu_version.c.o
+ .debug_abbrev  0x00001345      0x390 bson/tinybson.c.o
+ .debug_abbrev  0x000016d5      0x137 circuit_breaker.cpp.o
+ .debug_abbrev  0x0000180c      0x26a printload.c.o
+ .debug_abbrev  0x00001a76       0x55 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_abbrev  0x00001acb      0x2f7 err.c.o
+ .debug_abbrev  0x00001dc2       0x8b up_cxxinitialize.c.o
+ .debug_abbrev  0x00001e4d      0x325 hx_stream.c.o
+
+.debug_line     0x00000000     0xe6e4
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0xb84 perf_counter.c.o
+ .debug_line    0x00000b84      0xced conversions.c.o
+ .debug_line    0x00001871      0xeaa cpuload.c.o
+ .debug_line    0x0000271b      0x833 getopt_long.c.o
+ .debug_line    0x00002f4e      0x40e pid/pid.c.o
+ .debug_line    0x0000335c      0xa49 airspeed.c.o
+ .debug_line    0x00003da5      0x9ca mavlink_log.c.o
+ .debug_line    0x0000476f     0x11c2 rc_check.c.o
+ .debug_line    0x00005931     0x1135 otp.c.o
+ .debug_line    0x00006a66      0xde7 board_serial.c.o
+ .debug_line    0x0000784d      0x8b7 pwm_limit/pwm_limit.c.o
+ .debug_line    0x00008104     0x105f mcu_version.c.o
+ .debug_line    0x00009163      0xcb9 bson/tinybson.c.o
+ .debug_line    0x00009e1c      0xebb circuit_breaker.cpp.o
+ .debug_line    0x0000acd7      0xf2b printload.c.o
+ .debug_line    0x0000bc02      0x2a2 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_line    0x0000bea4     0x114c err.c.o
+ .debug_line    0x0000cff0      0xca1 up_cxxinitialize.c.o
+ .debug_line    0x0000dc91      0xa53 hx_stream.c.o
+
+.debug_frame    0x00000000      0xc88
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x20c perf_counter.c.o
+ .debug_frame   0x0000020c       0x20 conversions.c.o
+ .debug_frame   0x0000022c       0x90 cpuload.c.o
+ .debug_frame   0x000002bc       0xa4 getopt_long.c.o
+ .debug_frame   0x00000360       0xac pid/pid.c.o
+ .debug_frame   0x0000040c       0xac airspeed.c.o
+ .debug_frame   0x000004b8       0x40 mavlink_log.c.o
+ .debug_frame   0x000004f8       0x4c rc_check.c.o
+ .debug_frame   0x00000544       0xc4 otp.c.o
+ .debug_frame   0x00000608       0x2c board_serial.c.o
+ .debug_frame   0x00000634       0x60 pwm_limit/pwm_limit.c.o
+ .debug_frame   0x00000694       0x3c mcu_version.c.o
+ .debug_frame   0x000006d0      0x238 bson/tinybson.c.o
+ .debug_frame   0x00000908       0x2c circuit_breaker.cpp.o
+ .debug_frame   0x00000934       0x74 printload.c.o
+ .debug_frame   0x000009a8      0x1c4 err.c.o
+ .debug_frame   0x00000b6c       0x28 up_cxxinitialize.c.o
+ .debug_frame   0x00000b94       0xf4 hx_stream.c.o
+
+.debug_str      0x00000000   0x2e5309
+ *(.debug_str)
+ .debug_str     0x00000000     0xf545 perf_counter.c.o
+ .debug_str     0x0000f545    0x43494 conversions.c.o
+ .debug_str     0x000529d9    0x446c9 cpuload.c.o
+ .debug_str     0x000970a2     0x9307 getopt_long.c.o
+ .debug_str     0x000a03a9     0x6aa4 pid/pid.c.o
+ .debug_str     0x000a6e4d     0xc511 airspeed.c.o
+ .debug_str     0x000b335e     0xce89 mavlink_log.c.o
+ .debug_str     0x000c01e7    0x48909 rc_check.c.o
+ .debug_str     0x00108af0    0x480fb otp.c.o
+ .debug_str     0x00150beb    0x4464a board_serial.c.o
+ .debug_str     0x00195235     0x9e4e pwm_limit/pwm_limit.c.o
+ .debug_str     0x0019f083    0x47cd2 mcu_version.c.o
+ .debug_str     0x001e6d55     0xcf66 bson/tinybson.c.o
+ .debug_str     0x001f3cbb     0xc816 circuit_breaker.cpp.o
+ .debug_str     0x002004d1    0x44b71 printload.c.o
+ .debug_str     0x00245042     0x574e d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_str     0x0024a790    0x49bce err.c.o
+ .debug_str     0x0029435e    0x43034 up_cxxinitialize.c.o
+ .debug_str     0x002d7392     0xdf77 hx_stream.c.o
+
+.debug_loc      0x00000000     0x354c
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x6ee perf_counter.c.o
+ .debug_loc     0x000006ee       0x34 conversions.c.o
+ .debug_loc     0x00000722      0x139 cpuload.c.o
+ .debug_loc     0x0000085b      0x6d1 getopt_long.c.o
+ .debug_loc     0x00000f2c      0x3bb pid/pid.c.o
+ .debug_loc     0x000012e7      0x25f airspeed.c.o
+ .debug_loc     0x00001546       0x4d mavlink_log.c.o
+ .debug_loc     0x00001593      0x18f rc_check.c.o
+ .debug_loc     0x00001722      0x290 otp.c.o
+ .debug_loc     0x000019b2       0x2c board_serial.c.o
+ .debug_loc     0x000019de      0x369 pwm_limit/pwm_limit.c.o
+ .debug_loc     0x00001d47       0x96 mcu_version.c.o
+ .debug_loc     0x00001ddd      0xd01 bson/tinybson.c.o
+ .debug_loc     0x00002ade       0x3f circuit_breaker.cpp.o
+ .debug_loc     0x00002b1d      0x232 printload.c.o
+ .debug_loc     0x00002d4f      0x3ec err.c.o
+ .debug_loc     0x0000313b       0x3e up_cxxinitialize.c.o
+ .debug_loc     0x00003179      0x3d3 hx_stream.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x570
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x80 perf_counter.c.o
+ .debug_ranges  0x00000080       0x10 conversions.c.o
+ .debug_ranges  0x00000090       0x28 cpuload.c.o
+ .debug_ranges  0x000000b8       0x30 getopt_long.c.o
+ .debug_ranges  0x000000e8       0x88 pid/pid.c.o
+ .debug_ranges  0x00000170       0x60 airspeed.c.o
+ .debug_ranges  0x000001d0       0x10 mavlink_log.c.o
+ .debug_ranges  0x000001e0       0x28 rc_check.c.o
+ .debug_ranges  0x00000208       0x48 otp.c.o
+ .debug_ranges  0x00000250       0x10 board_serial.c.o
+ .debug_ranges  0x00000260       0x60 pwm_limit/pwm_limit.c.o
+ .debug_ranges  0x000002c0       0x18 mcu_version.c.o
+ .debug_ranges  0x000002d8      0x100 bson/tinybson.c.o
+ .debug_ranges  0x000003d8       0x28 circuit_breaker.cpp.o
+ .debug_ranges  0x00000400       0x48 printload.c.o
+ .debug_ranges  0x00000448       0x78 err.c.o
+ .debug_ranges  0x000004c0       0x10 up_cxxinitialize.c.o
+ .debug_ranges  0x000004d0       0xa0 hx_stream.c.o
+
+.debug_macro    0x00000000     0x401e
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x2c1 perf_counter.c.o
+ .debug_macro   0x000002c1      0x3b9 conversions.c.o
+ .debug_macro   0x0000067a      0x456 cpuload.c.o
+ .debug_macro   0x00000ad0      0x1b9 getopt_long.c.o
+ .debug_macro   0x00000c89       0xc3 pid/pid.c.o
+ .debug_macro   0x00000d4c      0x29d airspeed.c.o
+ .debug_macro   0x00000fe9      0x2bc mavlink_log.c.o
+ .debug_macro   0x000012a5      0x58b rc_check.c.o
+ .debug_macro   0x00001830      0x549 otp.c.o
+ .debug_macro   0x00001d79      0x45f board_serial.c.o
+ .debug_macro   0x000021d8      0x214 pwm_limit/pwm_limit.c.o
+ .debug_macro   0x000023ec      0x557 mcu_version.c.o
+ .debug_macro   0x00002943      0x2dc bson/tinybson.c.o
+ .debug_macro   0x00002c1f      0x33e circuit_breaker.cpp.o
+ .debug_macro   0x00002f5d      0x484 printload.c.o
+ .debug_macro   0x000033e1       0x60 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .debug_macro   0x00003441      0x554 err.c.o
+ .debug_macro   0x00003995      0x3c4 up_cxxinitialize.c.o
+ .debug_macro   0x00003d59      0x2c5 hx_stream.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x35
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x35 perf_counter.c.o
+ .ARM.attributes
+                0x00000035       0x35 conversions.c.o
+ .ARM.attributes
+                0x0000006a       0x35 cpuload.c.o
+ .ARM.attributes
+                0x0000009f       0x35 getopt_long.c.o
+ .ARM.attributes
+                0x000000d4       0x35 pid/pid.c.o
+ .ARM.attributes
+                0x00000109       0x35 airspeed.c.o
+ .ARM.attributes
+                0x0000013e       0x35 mavlink_log.c.o
+ .ARM.attributes
+                0x00000173       0x35 rc_check.c.o
+ .ARM.attributes
+                0x000001a8       0x35 otp.c.o
+ .ARM.attributes
+                0x000001dd       0x35 board_serial.c.o
+ .ARM.attributes
+                0x00000212       0x35 pwm_limit/pwm_limit.c.o
+ .ARM.attributes
+                0x00000247       0x35 mcu_version.c.o
+ .ARM.attributes
+                0x0000027c       0x35 bson/tinybson.c.o
+ .ARM.attributes
+                0x000002b1       0x35 circuit_breaker.cpp.o
+ .ARM.attributes
+                0x000002e6       0x35 printload.c.o
+ .ARM.attributes
+                0x0000031b       0x35 d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+ .ARM.attributes
+                0x00000350       0x35 err.c.o
+ .ARM.attributes
+                0x00000385       0x35 up_cxxinitialize.c.o
+ .ARM.attributes
+                0x000003ba       0x35 hx_stream.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/d/github/compiletest/34/ardupilot/modules/PX4Firmware/src/modules/systemlib/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x8ec
+ .debug_macro   0x00000000      0x8ec perf_counter.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 perf_counter.c.o
+
+.debug_macro    0x00000000      0x8b4
+ .debug_macro   0x00000000      0x8b4 perf_counter.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 perf_counter.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 perf_counter.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 perf_counter.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e perf_counter.c.o
+
+.debug_macro    0x00000000      0x12c
+ .debug_macro   0x00000000      0x12c perf_counter.c.o
+
+.debug_macro    0x00000000       0x69
+ .debug_macro   0x00000000       0x69 perf_counter.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 perf_counter.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 perf_counter.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c perf_counter.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 perf_counter.c.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 perf_counter.c.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 perf_counter.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 perf_counter.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 perf_counter.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 perf_counter.c.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 perf_counter.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 perf_counter.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 perf_counter.c.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b perf_counter.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 perf_counter.c.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f perf_counter.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 perf_counter.c.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 perf_counter.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a perf_counter.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 perf_counter.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 perf_counter.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 perf_counter.c.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 perf_counter.c.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 perf_counter.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d perf_counter.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 perf_counter.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 perf_counter.c.o
+
+.debug_macro    0x00000000       0x44
+ .debug_macro   0x00000000       0x44 perf_counter.c.o
+
+.debug_macro    0x00000000      0x29d
+ .debug_macro   0x00000000      0x29d perf_counter.c.o
+
+.debug_macro    0x00000000      0x249
+ .debug_macro   0x00000000      0x249 perf_counter.c.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 perf_counter.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 perf_counter.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 perf_counter.c.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e perf_counter.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c perf_counter.c.o
+
+.debug_macro    0x00000000      0x28f
+ .debug_macro   0x00000000      0x28f perf_counter.c.o
+
+.debug_macro    0x00000000       0xfa
+ .debug_macro   0x00000000       0xfa perf_counter.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 perf_counter.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 perf_counter.c.o
+
+.debug_macro    0x00000000       0x31
+ .debug_macro   0x00000000       0x31 perf_counter.c.o
+
+.debug_macro    0x00000000      0x183
+ .debug_macro   0x00000000      0x183 perf_counter.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 perf_counter.c.o
+
+.debug_macro    0x00000000       0x5a
+ .debug_macro   0x00000000       0x5a perf_counter.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f conversions.c.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 conversions.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 conversions.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c conversions.c.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb conversions.c.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a conversions.c.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f conversions.c.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab conversions.c.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 conversions.c.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 conversions.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e conversions.c.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca conversions.c.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff conversions.c.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 conversions.c.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 conversions.c.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d conversions.c.o
+
+.debug_macro    0x00000000      0x23b
+ .debug_macro   0x00000000      0x23b conversions.c.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a conversions.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c conversions.c.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf conversions.c.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 conversions.c.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 conversions.c.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 conversions.c.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa conversions.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 conversions.c.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 conversions.c.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 conversions.c.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 conversions.c.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 conversions.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c conversions.c.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a conversions.c.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf conversions.c.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c conversions.c.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 conversions.c.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f conversions.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d conversions.c.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c conversions.c.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 conversions.c.o
+
+.debug_macro    0x00000000      0x21b
+ .debug_macro   0x00000000      0x21b conversions.c.o
+
+.debug_macro    0x00000000      0x2b6
+ .debug_macro   0x00000000      0x2b6 conversions.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 cpuload.c.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 cpuload.c.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c cpuload.c.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e getopt_long.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c getopt_long.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 airspeed.c.o
+
+.debug_macro    0x00000000       0x4a
+ .debug_macro   0x00000000       0x4a airspeed.c.o
+
+.debug_macro    0x00000000       0xd6
+ .debug_macro   0x00000000       0xd6 airspeed.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 airspeed.c.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d mavlink_log.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 mavlink_log.c.o
+
+.debug_macro    0x00000000       0x70
+ .debug_macro   0x00000000       0x70 mavlink_log.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 mavlink_log.c.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f mavlink_log.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c rc_check.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 rc_check.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 rc_check.c.o
+
+.debug_macro    0x00000000       0x6a
+ .debug_macro   0x00000000       0x6a rc_check.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 rc_check.c.o
+
+.debug_macro    0x00000000       0xb8
+ .debug_macro   0x00000000       0xb8 otp.c.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e board_serial.c.o
+
+.debug_macro    0x00000000       0xcb
+ .debug_macro   0x00000000       0xcb board_serial.c.o
+
+.debug_macro    0x00000000       0x8e
+ .debug_macro   0x00000000       0x8e board_serial.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 pwm_limit/pwm_limit.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bson/tinybson.c.o
+
+.debug_macro    0x00000000      0x958
+ .debug_macro   0x00000000      0x958 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x2a4
+ .debug_macro   0x00000000      0x2a4 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x167
+ .debug_macro   0x00000000      0x167 circuit_breaker.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a circuit_breaker.cpp.o
+
+.debug_macro    0x00000000      0x8ec
+ .debug_macro   0x00000000      0x8ec d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/git_version.c.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 err.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 hx_stream.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 hx_stream.c.o

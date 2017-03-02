@@ -1,0 +1,2069 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x880 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x55e drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xc9 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x88 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x14e drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x12c drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x6f drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xa1 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x28 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x114 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x339 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x1d0 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x57d drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x1d drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x39 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x71 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x1a4 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x570 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xbe drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x6f0 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x58 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x59 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x4c drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x1a2 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xbd drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x8a drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xf4 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x1d drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x156 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x563 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x675 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x172 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x9c drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x25c drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x9b drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x34 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x669 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x17 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xd0 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x120 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x596 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x17b drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000     0x1278 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x53 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x26d drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xc7 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x1c drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x9a drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x1cf drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x16c drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x413 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xe7 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x1d drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xdf drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x336 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x13f drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x1c drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xca drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x12a drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x4c drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x49 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xfa drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x28 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xd1 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x98 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0xba drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x56 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x19 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x58 drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x24e drv_pwm_servo.c.o
+ .debug_macro   0x00000000      0x6c1 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x18 drv_pwm_servo.c.o
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x880 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x55e drv_io_timer.c.o
+ .debug_macro   0x00000000       0xc9 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x88 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x14e drv_io_timer.c.o
+ .debug_macro   0x00000000      0x12c drv_io_timer.c.o
+ .debug_macro   0x00000000       0x6f drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xa1 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x28 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x114 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x339 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x1d0 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x57d drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1d drv_io_timer.c.o
+ .debug_macro   0x00000000       0x39 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x71 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x1a4 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x570 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xbe drv_io_timer.c.o
+ .debug_macro   0x00000000      0x6f0 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x58 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x59 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x4c drv_io_timer.c.o
+ .debug_macro   0x00000000      0x1a2 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xbd drv_io_timer.c.o
+ .debug_macro   0x00000000       0x8a drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xf4 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1d drv_io_timer.c.o
+ .debug_macro   0x00000000      0x156 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x563 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x675 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x172 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x9c drv_io_timer.c.o
+ .debug_macro   0x00000000      0x25c drv_io_timer.c.o
+ .debug_macro   0x00000000       0x9b drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x34 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x669 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x17 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xd0 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x120 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x596 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x17b drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000     0x1278 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x53 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x26d drv_io_timer.c.o
+ .debug_macro   0x00000000       0xc7 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1c drv_io_timer.c.o
+ .debug_macro   0x00000000       0x9a drv_io_timer.c.o
+ .debug_macro   0x00000000      0x1cf drv_io_timer.c.o
+ .debug_macro   0x00000000      0x16c drv_io_timer.c.o
+ .debug_macro   0x00000000      0x413 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xe7 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1d drv_io_timer.c.o
+ .debug_macro   0x00000000       0xdf drv_io_timer.c.o
+ .debug_macro   0x00000000      0x336 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x13f drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1c drv_io_timer.c.o
+ .debug_macro   0x00000000       0xca drv_io_timer.c.o
+ .debug_macro   0x00000000      0x12a drv_io_timer.c.o
+ .debug_macro   0x00000000       0x4c drv_io_timer.c.o
+ .debug_macro   0x00000000       0x49 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xfa drv_io_timer.c.o
+ .debug_macro   0x00000000       0x28 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xd1 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x98 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000       0xba drv_io_timer.c.o
+ .debug_macro   0x00000000       0x56 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x19 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x58 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x24e drv_io_timer.c.o
+ .debug_macro   0x00000000      0x6c1 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x53 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x28 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x18 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x44 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x29d drv_io_timer.c.o
+ .debug_macro   0x00000000       0xd6 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x58 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x2e drv_io_timer.c.o
+ .debug_macro   0x00000000       0x9c drv_io_timer.c.o
+ .debug_macro   0x00000000      0x28f drv_io_timer.c.o
+ .debug_macro   0x00000000       0x22 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x29 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x31 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x183 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x5a drv_io_timer.c.o
+ .debug_macro   0x00000000       0x1c drv_io_timer.c.o
+ .debug_macro   0x00000000       0x46 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000      0x1c2 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x10 drv_io_timer.c.o
+ .debug_macro   0x00000000       0x16 drv_io_timer.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .group         0x00000000        0x8 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x880 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x55e drv_input_capture.c.o
+ .debug_macro   0x00000000       0xc9 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x88 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x14e drv_input_capture.c.o
+ .debug_macro   0x00000000      0x12c drv_input_capture.c.o
+ .debug_macro   0x00000000       0x6f drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xa1 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x28 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x114 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x339 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x1d0 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x57d drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1d drv_input_capture.c.o
+ .debug_macro   0x00000000       0x39 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x71 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x1a4 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x570 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xbe drv_input_capture.c.o
+ .debug_macro   0x00000000      0x6f0 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x58 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x59 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x4c drv_input_capture.c.o
+ .debug_macro   0x00000000      0x1a2 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xbd drv_input_capture.c.o
+ .debug_macro   0x00000000       0x8a drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xf4 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1d drv_input_capture.c.o
+ .debug_macro   0x00000000      0x156 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x563 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x675 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x172 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x9c drv_input_capture.c.o
+ .debug_macro   0x00000000      0x25c drv_input_capture.c.o
+ .debug_macro   0x00000000       0x9b drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x34 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x669 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x17 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xd0 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x120 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x596 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x17b drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000     0x1278 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x53 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x26d drv_input_capture.c.o
+ .debug_macro   0x00000000       0xc7 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1c drv_input_capture.c.o
+ .debug_macro   0x00000000       0x9a drv_input_capture.c.o
+ .debug_macro   0x00000000      0x1cf drv_input_capture.c.o
+ .debug_macro   0x00000000      0x16c drv_input_capture.c.o
+ .debug_macro   0x00000000      0x413 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xe7 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1d drv_input_capture.c.o
+ .debug_macro   0x00000000       0xdf drv_input_capture.c.o
+ .debug_macro   0x00000000      0x336 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x13f drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1c drv_input_capture.c.o
+ .debug_macro   0x00000000       0xca drv_input_capture.c.o
+ .debug_macro   0x00000000      0x12a drv_input_capture.c.o
+ .debug_macro   0x00000000       0x4c drv_input_capture.c.o
+ .debug_macro   0x00000000       0x49 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xfa drv_input_capture.c.o
+ .debug_macro   0x00000000       0x28 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xd1 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x98 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000       0xba drv_input_capture.c.o
+ .debug_macro   0x00000000       0x56 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x19 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x58 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x24e drv_input_capture.c.o
+ .debug_macro   0x00000000      0x6c1 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x53 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x28 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x18 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x44 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x29d drv_input_capture.c.o
+ .debug_macro   0x00000000       0xd6 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x58 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x2e drv_input_capture.c.o
+ .debug_macro   0x00000000       0x9c drv_input_capture.c.o
+ .debug_macro   0x00000000      0x28f drv_input_capture.c.o
+ .debug_macro   0x00000000       0x22 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x29 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x31 drv_input_capture.c.o
+ .debug_macro   0x00000000      0x183 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x5a drv_input_capture.c.o
+ .debug_macro   0x00000000       0x1c drv_input_capture.c.o
+ .debug_macro   0x00000000       0x10 drv_input_capture.c.o
+ .debug_macro   0x00000000       0x16 drv_input_capture.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD drv_hrt.c.o
+LOAD drv_pwm_servo.c.o
+LOAD drv_io_timer.c.o
+LOAD drv_input_capture.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 drv_hrt.c.o
+ .text          0x00000000        0x0 drv_pwm_servo.c.o
+ .text          0x00000000        0x0 drv_io_timer.c.o
+ .text          0x00000000        0x0 drv_input_capture.c.o
+ *(.gnu.warning)
+
+.text.hrt_absolute_time
+                0x00000000       0x48
+ .text.hrt_absolute_time
+                0x00000000       0x48 drv_hrt.c.o
+                0x00000000                hrt_absolute_time
+
+.text.hrt_call_reschedule
+                0x00000000       0x58
+ .text.hrt_call_reschedule
+                0x00000000       0x58 drv_hrt.c.o
+
+.text.hrt_call_enter
+                0x00000000       0x4c
+ .text.hrt_call_enter
+                0x00000000       0x4c drv_hrt.c.o
+
+.text.hrt_call_internal
+                0x00000000       0x4c
+ .text.hrt_call_internal
+                0x00000000       0x4c drv_hrt.c.o
+
+.text.hrt_tim_isr
+                0x00000000      0x1e4
+ .text.hrt_tim_isr
+                0x00000000      0x1e4 drv_hrt.c.o
+
+.text.ts_to_abstime
+                0x00000000       0x1c
+ .text.ts_to_abstime
+                0x00000000       0x1c drv_hrt.c.o
+                0x00000000                ts_to_abstime
+
+.text.abstime_to_ts
+                0x00000000       0x28
+ .text.abstime_to_ts
+                0x00000000       0x28 drv_hrt.c.o
+                0x00000000                abstime_to_ts
+
+.text.hrt_elapsed_time
+                0x00000000       0x22
+ .text.hrt_elapsed_time
+                0x00000000       0x22 drv_hrt.c.o
+                0x00000000                hrt_elapsed_time
+
+.text.hrt_store_absolute_time
+                0x00000000       0x16
+ .text.hrt_store_absolute_time
+                0x00000000       0x16 drv_hrt.c.o
+                0x00000000                hrt_store_absolute_time
+
+.text.hrt_init  0x00000000       0x84
+ .text.hrt_init
+                0x00000000       0x84 drv_hrt.c.o
+                0x00000000                hrt_init
+
+.text.hrt_call_after
+                0x00000000       0x2c
+ .text.hrt_call_after
+                0x00000000       0x2c drv_hrt.c.o
+                0x00000000                hrt_call_after
+
+.text.hrt_call_at
+                0x00000000       0x1c
+ .text.hrt_call_at
+                0x00000000       0x1c drv_hrt.c.o
+                0x00000000                hrt_call_at
+
+.text.hrt_call_every
+                0x00000000       0x36
+ .text.hrt_call_every
+                0x00000000       0x36 drv_hrt.c.o
+                0x00000000                hrt_call_every
+
+.text.hrt_called
+                0x00000000        0xe
+ .text.hrt_called
+                0x00000000        0xe drv_hrt.c.o
+                0x00000000                hrt_called
+
+.text.hrt_cancel
+                0x00000000       0x2c
+ .text.hrt_cancel
+                0x00000000       0x2c drv_hrt.c.o
+                0x00000000                hrt_cancel
+
+.text.hrt_call_init
+                0x00000000        0x8
+ .text.hrt_call_init
+                0x00000000        0x8 drv_hrt.c.o
+                0x00000000                hrt_call_init
+
+.text.hrt_call_delay
+                0x00000000       0x16
+ .text.hrt_call_delay
+                0x00000000       0x16 drv_hrt.c.o
+                0x00000000                hrt_call_delay
+
+.text.up_pwm_servo_set
+                0x00000000        0x4
+ .text.up_pwm_servo_set
+                0x00000000        0x4 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_set
+
+.text.up_pwm_servo_get
+                0x00000000        0x4
+ .text.up_pwm_servo_get
+                0x00000000        0x4 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_get
+
+.text.up_pwm_servo_trigger
+                0x00000000        0x4
+ .text.up_pwm_servo_trigger
+                0x00000000        0x4 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_trigger
+
+.text.up_pwm_servo_init
+                0x00000000       0x62
+ .text.up_pwm_servo_init
+                0x00000000       0x62 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_init
+
+.text.up_pwm_servo_set_rate_group_update
+                0x00000000       0x30
+ .text.up_pwm_servo_set_rate_group_update
+                0x00000000       0x30 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_set_rate_group_update
+
+.text.up_pwm_servo_set_rate
+                0x00000000       0x18
+ .text.up_pwm_servo_set_rate
+                0x00000000       0x18 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_set_rate
+
+.text.up_pwm_servo_get_rate_group
+                0x00000000        0x4
+ .text.up_pwm_servo_get_rate_group
+                0x00000000        0x4 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_get_rate_group
+
+.text.up_pwm_servo_arm
+                0x00000000        0x8
+ .text.up_pwm_servo_arm
+                0x00000000        0x8 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_arm
+
+.text.up_pwm_servo_deinit
+                0x00000000        0x6
+ .text.up_pwm_servo_deinit
+                0x00000000        0x6 drv_pwm_servo.c.o
+                0x00000000                up_pwm_servo_deinit
+
+.text.io_timer_handler
+                0x00000000       0xd8
+ .text.io_timer_handler
+                0x00000000       0xd8 drv_io_timer.c.o
+
+.text.get_timer_channels
+                0x00000000       0x30
+ .text.get_timer_channels
+                0x00000000       0x30 drv_io_timer.c.o
+
+.text.io_timer_handler0
+                0x00000000        0x6
+ .text.io_timer_handler0
+                0x00000000        0x6 drv_io_timer.c.o
+                0x00000000                io_timer_handler0
+
+.text.io_timer_handler1
+                0x00000000        0x6
+ .text.io_timer_handler1
+                0x00000000        0x6 drv_io_timer.c.o
+                0x00000000                io_timer_handler1
+
+.text.io_timer_handler2
+                0x00000000        0x6
+ .text.io_timer_handler2
+                0x00000000        0x6 drv_io_timer.c.o
+                0x00000000                io_timer_handler2
+
+.text.io_timer_handler3
+                0x00000000        0x6
+ .text.io_timer_handler3
+                0x00000000        0x6 drv_io_timer.c.o
+                0x00000000                io_timer_handler3
+
+.text.io_timer_validate_channel_index
+                0x00000000       0x3c
+ .text.io_timer_validate_channel_index
+                0x00000000       0x3c drv_io_timer.c.o
+                0x00000000                io_timer_validate_channel_index
+
+.text.io_timer_is_channel_free
+                0x00000000       0x20
+ .text.io_timer_is_channel_free
+                0x00000000       0x20 drv_io_timer.c.o
+                0x00000000                io_timer_is_channel_free
+
+.text.io_timer_get_mode_channels
+                0x00000000       0x14
+ .text.io_timer_get_mode_channels
+                0x00000000       0x14 drv_io_timer.c.o
+                0x00000000                io_timer_get_mode_channels
+
+.text.io_timer_get_channel_mode
+                0x00000000       0x24
+ .text.io_timer_get_channel_mode
+                0x00000000       0x24 drv_io_timer.c.o
+                0x00000000                io_timer_get_channel_mode
+
+.text.io_timer_set_rate
+                0x00000000       0x34
+ .text.io_timer_set_rate
+                0x00000000       0x34 drv_io_timer.c.o
+                0x00000000                io_timer_set_rate
+
+.text.io_timer_channel_init
+                0x00000000      0x1fc
+ .text.io_timer_channel_init
+                0x00000000      0x1fc drv_io_timer.c.o
+                0x00000000                io_timer_channel_init
+
+.text.io_timer_set_enable
+                0x00000000      0x180
+ .text.io_timer_set_enable
+                0x00000000      0x180 drv_io_timer.c.o
+                0x00000000                io_timer_set_enable
+
+.text.io_timer_free_channel
+                0x00000000       0x54
+ .text.io_timer_free_channel
+                0x00000000       0x54 drv_io_timer.c.o
+                0x00000000                io_timer_free_channel
+
+.text.io_timer_set_ccr
+                0x00000000       0x44
+ .text.io_timer_set_ccr
+                0x00000000       0x44 drv_io_timer.c.o
+                0x00000000                io_timer_set_ccr
+
+.text.io_channel_get_ccr
+                0x00000000       0x40
+ .text.io_channel_get_ccr
+                0x00000000       0x40 drv_io_timer.c.o
+                0x00000000                io_channel_get_ccr
+
+.text.io_timer_get_group
+                0x00000000        0x4
+ .text.io_timer_get_group
+                0x00000000        0x4 drv_io_timer.c.o
+                0x00000000                io_timer_get_group
+
+.text.io_timer_pwm_trigger
+                0x00000000       0x48
+ .text.io_timer_pwm_trigger
+                0x00000000       0x48 drv_io_timer.c.o
+                0x00000000                io_timer_pwm_trigger
+
+.text.input_capture_bind
+                0x00000000       0x24
+ .text.input_capture_bind
+                0x00000000       0x24 drv_input_capture.c.o
+
+.text.input_capture_chan_handler
+                0x00000000       0x94
+ .text.input_capture_chan_handler
+                0x00000000       0x94 drv_input_capture.c.o
+
+.text.up_input_capture_get_filter
+                0x00000000       0x7c
+ .text.up_input_capture_get_filter
+                0x00000000       0x7c drv_input_capture.c.o
+                0x00000000                up_input_capture_get_filter
+
+.text.up_input_capture_set_filter
+                0x00000000       0xbc
+ .text.up_input_capture_set_filter
+                0x00000000       0xbc drv_input_capture.c.o
+                0x00000000                up_input_capture_set_filter
+
+.text.up_input_capture_get_trigger
+                0x00000000       0xa0
+ .text.up_input_capture_get_trigger
+                0x00000000       0xa0 drv_input_capture.c.o
+                0x00000000                up_input_capture_get_trigger
+
+.text.up_input_capture_set_trigger
+                0x00000000       0xd4
+ .text.up_input_capture_set_trigger
+                0x00000000       0xd4 drv_input_capture.c.o
+                0x00000000                up_input_capture_set_trigger
+
+.text.up_input_capture_set
+                0x00000000       0x98
+ .text.up_input_capture_set
+                0x00000000       0x98 drv_input_capture.c.o
+                0x00000000                up_input_capture_set
+
+.text.up_input_capture_get_callback
+                0x00000000       0x48
+ .text.up_input_capture_get_callback
+                0x00000000       0x48 drv_input_capture.c.o
+                0x00000000                up_input_capture_get_callback
+
+.text.up_input_capture_set_callback
+                0x00000000       0x2e
+ .text.up_input_capture_set_callback
+                0x00000000       0x2e drv_input_capture.c.o
+                0x00000000                up_input_capture_set_callback
+
+.text.up_input_capture_get_stats
+                0x00000000       0x50
+ .text.up_input_capture_get_stats
+                0x00000000       0x50 drv_input_capture.c.o
+                0x00000000                up_input_capture_get_stats
+
+.fini
+ *(SORT(.fini))
+
+.rodata
+ *(.rodata)
+
+.rodata.latency_bucket_count
+                0x00000000        0x2
+ .rodata.latency_bucket_count
+                0x00000000        0x2 drv_hrt.c.o
+                0x00000000                latency_bucket_count
+
+.rodata.latency_buckets
+                0x00000000       0x10
+ .rodata.latency_buckets
+                0x00000000       0x10 drv_hrt.c.o
+                0x00000000                latency_buckets
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 drv_hrt.c.o
+ .data          0x00000000        0x0 drv_pwm_servo.c.o
+ .data          0x00000000        0x0 drv_io_timer.c.o
+ .data          0x00000000        0x0 drv_input_capture.c.o
+
+.data.channel_allocations
+                0x00000000        0x8
+ .data.channel_allocations
+                0x00000000        0x8 drv_io_timer.c.o
+                0x00000000                channel_allocations
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 drv_hrt.c.o
+ .bss           0x00000000        0x0 drv_pwm_servo.c.o
+ .bss           0x00000000        0x0 drv_io_timer.c.o
+ .bss           0x00000000        0x0 drv_input_capture.c.o
+ *(COMMON)
+
+.bss.callout_queue
+                0x00000000        0x8
+ .bss.callout_queue
+                0x00000000        0x8 drv_hrt.c.o
+
+.bss.new_channel_count.6001
+                0x00000000        0x4
+ .bss.new_channel_count.6001
+                0x00000000        0x4 drv_hrt.c.o
+
+.bss.ppm_frame_length
+                0x00000000        0x2
+ .bss.ppm_frame_length
+                0x00000000        0x2 drv_hrt.c.o
+                0x00000000                ppm_frame_length
+
+.bss.ppm_decoded_channels
+                0x00000000        0x4
+ .bss.ppm_decoded_channels
+                0x00000000        0x4 drv_hrt.c.o
+                0x00000000                ppm_decoded_channels
+
+.bss.new_channel_holdoff.6002
+                0x00000000        0x4
+ .bss.new_channel_holdoff.6002
+                0x00000000        0x4 drv_hrt.c.o
+
+.bss.base_time.6022
+                0x00000000        0x8
+ .bss.base_time.6022
+                0x00000000        0x8 drv_hrt.c.o
+
+.bss.last_count.6023
+                0x00000000        0x4
+ .bss.last_count.6023
+                0x00000000        0x4 drv_hrt.c.o
+
+.bss.ppm_temp_buffer
+                0x00000000       0x28
+ .bss.ppm_temp_buffer
+                0x00000000       0x28 drv_hrt.c.o
+
+.bss.latency_baseline
+                0x00000000        0x2
+ .bss.latency_baseline
+                0x00000000        0x2 drv_hrt.c.o
+
+.bss.ppm_last_valid_decode
+                0x00000000        0x8
+ .bss.ppm_last_valid_decode
+                0x00000000        0x8 drv_hrt.c.o
+                0x00000000                ppm_last_valid_decode
+
+.bss.latency_actual
+                0x00000000        0x2
+ .bss.latency_actual
+                0x00000000        0x2 drv_hrt.c.o
+
+.bss.ppm_buffer
+                0x00000000       0x28
+ .bss.ppm_buffer
+                0x00000000       0x28 drv_hrt.c.o
+                0x00000000                ppm_buffer
+
+.bss.latency_counters
+                0x00000000       0x24
+ .bss.latency_counters
+                0x00000000       0x24 drv_hrt.c.o
+                0x00000000                latency_counters
+
+.bss.ppm        0x00000000       0x10
+ .bss.ppm       0x00000000       0x10 drv_hrt.c.o
+                0x00000000                ppm
+
+.bss.channel_handlers
+                0x00000000       0x80
+ .bss.channel_handlers
+                0x00000000       0x40 drv_io_timer.c.o
+ .bss.channel_handlers
+                0x00000040       0x40 drv_input_capture.c.o
+
+.bss.once       0x00000000        0x1
+ .bss.once      0x00000000        0x1 drv_io_timer.c.o
+
+.bss.io_timer_channel_stats
+                0x00000000       0x40
+ .bss.io_timer_channel_stats
+                0x00000000       0x40 drv_io_timer.c.o
+
+.bss.channel_stats
+                0x00000000      0x100
+ .bss.channel_stats
+                0x00000000      0x100 drv_input_capture.c.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x1c4
+ *(.comment)
+ .comment       0x00000000       0x71 drv_hrt.c.o
+ .comment       0x00000071       0x71 drv_pwm_servo.c.o
+ .comment       0x000000e2       0x71 drv_io_timer.c.o
+ .comment       0x00000153       0x71 drv_input_capture.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_hrt.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_pwm_servo.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 drv_input_capture.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x210
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xa0 drv_hrt.c.o
+ .debug_aranges
+                0x000000a0       0x60 drv_pwm_servo.c.o
+ .debug_aranges
+                0x00000100       0xa8 drv_io_timer.c.o
+ .debug_aranges
+                0x000001a8       0x68 drv_input_capture.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x357a
+ *(.debug_info)
+ .debug_info    0x00000000      0xee2 drv_hrt.c.o
+ .debug_info    0x00000ee2      0x671 drv_pwm_servo.c.o
+ .debug_info    0x00001553     0x12ad drv_io_timer.c.o
+ .debug_info    0x00002800      0xd7a drv_input_capture.c.o
+
+.debug_abbrev   0x00000000      0xc41
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3d2 drv_hrt.c.o
+ .debug_abbrev  0x000003d2      0x1a5 drv_pwm_servo.c.o
+ .debug_abbrev  0x00000577      0x3e1 drv_io_timer.c.o
+ .debug_abbrev  0x00000958      0x2e9 drv_input_capture.c.o
+
+.debug_line     0x00000000     0x4c21
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000     0x10ef drv_hrt.c.o
+ .debug_line    0x000010ef     0x12d2 drv_pwm_servo.c.o
+ .debug_line    0x000023c1     0x1519 drv_io_timer.c.o
+ .debug_line    0x000038da     0x1347 drv_input_capture.c.o
+
+.debug_frame    0x00000000      0x604
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x208 drv_hrt.c.o
+ .debug_frame   0x00000208       0xc4 drv_pwm_servo.c.o
+ .debug_frame   0x000002cc      0x1d4 drv_io_timer.c.o
+ .debug_frame   0x000004a0      0x164 drv_input_capture.c.o
+
+.debug_str      0x00000000    0xbeca4
+ *(.debug_str)
+ .debug_str     0x00000000    0x2ca2b drv_hrt.c.o
+ .debug_str     0x0002ca2b    0x30acd drv_pwm_servo.c.o
+ .debug_str     0x0005d4f8    0x313a8 drv_io_timer.c.o
+ .debug_str     0x0008e8a0    0x30404 drv_input_capture.c.o
+
+.debug_loc      0x00000000     0x2343
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x7e3 drv_hrt.c.o
+ .debug_loc     0x000007e3      0x1ff drv_pwm_servo.c.o
+ .debug_loc     0x000009e2      0xcf9 drv_io_timer.c.o
+ .debug_loc     0x000016db      0xc68 drv_input_capture.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x2d0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xc8 drv_hrt.c.o
+ .debug_ranges  0x000000c8       0x50 drv_pwm_servo.c.o
+ .debug_ranges  0x00000118      0x118 drv_io_timer.c.o
+ .debug_ranges  0x00000230       0xa0 drv_input_capture.c.o
+
+.debug_macro    0x00000000     0x17cd
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x616 drv_hrt.c.o
+ .debug_macro   0x00000616      0x5a9 drv_pwm_servo.c.o
+ .debug_macro   0x00000bbf      0x662 drv_io_timer.c.o
+ .debug_macro   0x00001221      0x5ac drv_input_capture.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x2f drv_hrt.c.o
+ .ARM.attributes
+                0x0000002f       0x2f drv_pwm_servo.c.o
+ .ARM.attributes
+                0x0000005e       0x2f drv_io_timer.c.o
+ .ARM.attributes
+                0x0000008d       0x2f drv_input_capture.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/d/github/compiletest/34/ardupilot/modules/PX4Firmware/src/drivers/stm32/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x880
+ .debug_macro   0x00000000      0x880 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x55e
+ .debug_macro   0x00000000      0x55e drv_hrt.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e drv_hrt.c.o
+
+.debug_macro    0x00000000      0x12c
+ .debug_macro   0x00000000      0x12c drv_hrt.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f drv_hrt.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xa1
+ .debug_macro   0x00000000       0xa1 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x114
+ .debug_macro   0x00000000      0x114 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x339
+ .debug_macro   0x00000000      0x339 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x1d0
+ .debug_macro   0x00000000      0x1d0 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x57d
+ .debug_macro   0x00000000      0x57d drv_hrt.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d drv_hrt.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x71
+ .debug_macro   0x00000000       0x71 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x1a4
+ .debug_macro   0x00000000      0x1a4 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x570
+ .debug_macro   0x00000000      0x570 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xbe
+ .debug_macro   0x00000000       0xbe drv_hrt.c.o
+
+.debug_macro    0x00000000      0x6f0
+ .debug_macro   0x00000000      0x6f0 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c drv_hrt.c.o
+
+.debug_macro    0x00000000      0x1a2
+ .debug_macro   0x00000000      0x1a2 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xbd
+ .debug_macro   0x00000000       0xbd drv_hrt.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xf4
+ .debug_macro   0x00000000       0xf4 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d drv_hrt.c.o
+
+.debug_macro    0x00000000      0x156
+ .debug_macro   0x00000000      0x156 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x563
+ .debug_macro   0x00000000      0x563 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x675
+ .debug_macro   0x00000000      0x675 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x172
+ .debug_macro   0x00000000      0x172 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c drv_hrt.c.o
+
+.debug_macro    0x00000000      0x25c
+ .debug_macro   0x00000000      0x25c drv_hrt.c.o
+
+.debug_macro    0x00000000       0x9b
+ .debug_macro   0x00000000       0x9b drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x669
+ .debug_macro   0x00000000      0x669 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xd0
+ .debug_macro   0x00000000       0xd0 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x120
+ .debug_macro   0x00000000      0x120 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x17b
+ .debug_macro   0x00000000      0x17b drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000     0x1278
+ .debug_macro   0x00000000     0x1278 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x26d
+ .debug_macro   0x00000000      0x26d drv_hrt.c.o
+
+.debug_macro    0x00000000       0xc7
+ .debug_macro   0x00000000       0xc7 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c drv_hrt.c.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a drv_hrt.c.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf drv_hrt.c.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c drv_hrt.c.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xe7
+ .debug_macro   0x00000000       0xe7 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d drv_hrt.c.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf drv_hrt.c.o
+
+.debug_macro    0x00000000      0x336
+ .debug_macro   0x00000000      0x336 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f drv_hrt.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c drv_hrt.c.o
+
+.debug_macro    0x00000000       0xca
+ .debug_macro   0x00000000       0xca drv_hrt.c.o
+
+.debug_macro    0x00000000      0x12a
+ .debug_macro   0x00000000      0x12a drv_hrt.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c drv_hrt.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xfa
+ .debug_macro   0x00000000       0xfa drv_hrt.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000       0xba
+ .debug_macro   0x00000000       0xba drv_hrt.c.o
+
+.debug_macro    0x00000000       0x56
+ .debug_macro   0x00000000       0x56 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x19
+ .debug_macro   0x00000000       0x19 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 drv_hrt.c.o
+
+.debug_macro    0x00000000      0x24e
+ .debug_macro   0x00000000      0x24e drv_hrt.c.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_hrt.c.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x44
+ .debug_macro   0x00000000       0x44 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000      0x29d
+ .debug_macro   0x00000000      0x29d drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0xd6
+ .debug_macro   0x00000000       0xd6 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c drv_pwm_servo.c.o
+
+.debug_macro    0x00000000      0x28f
+ .debug_macro   0x00000000      0x28f drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x31
+ .debug_macro   0x00000000       0x31 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000      0x183
+ .debug_macro   0x00000000      0x183 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x5a
+ .debug_macro   0x00000000       0x5a drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000      0x1c2
+ .debug_macro   0x00000000      0x1c2 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 drv_pwm_servo.c.o
+
+.debug_macro    0x00000000       0x68
+ .debug_macro   0x00000000       0x68 drv_input_capture.c.o

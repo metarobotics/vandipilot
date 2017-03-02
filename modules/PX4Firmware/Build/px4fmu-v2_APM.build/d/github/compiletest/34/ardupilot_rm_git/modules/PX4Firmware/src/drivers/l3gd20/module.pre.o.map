@@ -1,0 +1,1269 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD l3gd20.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 l3gd20.cpp.o
+ *(.gnu.warning)
+
+.text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0x2
+ .text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0x2 l3gd20.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0x2
+ .text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0x2 l3gd20.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6VectorILj3EED0Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj3EED0Ev
+                0x00000000        0xc l3gd20.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000        0xc l3gd20.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN6L3GD20C2EiPKc9spi_dev_e8Rotation
+                0x00000000      0x1ac
+ .text._ZN6L3GD20C2EiPKc9spi_dev_e8Rotation
+                0x00000000      0x1ac l3gd20.cpp.o
+                0x00000000                L3GD20::L3GD20(int, char const*, spi_dev_e, Rotation)
+                0x00000000                L3GD20::L3GD20(int, char const*, spi_dev_e, Rotation)
+
+.text._ZN6L3GD208read_regEj
+                0x00000000       0x24
+ .text._ZN6L3GD208read_regEj
+                0x00000000       0x24 l3gd20.cpp.o
+                0x00000000                L3GD20::read_reg(unsigned int)
+
+.text._ZN6L3GD205probeEv
+                0x00000000       0x4c
+ .text._ZN6L3GD205probeEv
+                0x00000000       0x4c l3gd20.cpp.o
+                0x00000000                L3GD20::probe()
+
+.text._ZN6L3GD209write_regEjh
+                0x00000000       0x1a
+ .text._ZN6L3GD209write_regEjh
+                0x00000000       0x1a l3gd20.cpp.o
+                0x00000000                L3GD20::write_reg(unsigned int, unsigned char)
+
+.text._ZN6L3GD2017write_checked_regEjh
+                0x00000000       0x2c
+ .text._ZN6L3GD2017write_checked_regEjh
+                0x00000000       0x2c l3gd20.cpp.o
+                0x00000000                L3GD20::write_checked_reg(unsigned int, unsigned char)
+
+.text._ZN6L3GD2010modify_regEjhh
+                0x00000000       0x22
+ .text._ZN6L3GD2010modify_regEjhh
+                0x00000000       0x22 l3gd20.cpp.o
+                0x00000000                L3GD20::modify_reg(unsigned int, unsigned char, unsigned char)
+
+.text._ZN6L3GD209set_rangeEj
+                0x00000000       0x78
+ .text._ZN6L3GD209set_rangeEj
+                0x00000000       0x78 l3gd20.cpp.o
+                0x00000000                L3GD20::set_range(unsigned int)
+
+.text._ZN6L3GD2014set_samplerateEjj
+                0x00000000      0x104
+ .text._ZN6L3GD2014set_samplerateEjj
+                0x00000000      0x104 l3gd20.cpp.o
+                0x00000000                L3GD20::set_samplerate(unsigned int, unsigned int)
+
+.text._ZN6L3GD2025set_driver_lowpass_filterEff
+                0x00000000       0x3e
+ .text._ZN6L3GD2025set_driver_lowpass_filterEff
+                0x00000000       0x3e l3gd20.cpp.o
+                0x00000000                L3GD20::set_driver_lowpass_filter(float, float)
+
+.text._ZN6L3GD205startEv
+                0x00000000       0x40
+ .text._ZN6L3GD205startEv
+                0x00000000       0x40 l3gd20.cpp.o
+                0x00000000                L3GD20::start()
+
+.text._ZN6L3GD204stopEv
+                0x00000000        0x6
+ .text._ZN6L3GD204stopEv
+                0x00000000        0x6 l3gd20.cpp.o
+                0x00000000                L3GD20::stop()
+
+.text._ZN6L3GD2011disable_i2cEv
+                0x00000000       0x58
+ .text._ZN6L3GD2011disable_i2cEv
+                0x00000000       0x58 l3gd20.cpp.o
+                0x00000000                L3GD20::disable_i2c()
+
+.text._ZN6L3GD205resetEv
+                0x00000000       0x80
+ .text._ZN6L3GD205resetEv
+                0x00000000       0x80 l3gd20.cpp.o
+                0x00000000                L3GD20::reset()
+
+.text._ZN6L3GD2015check_registersEv
+                0x00000000       0x54
+ .text._ZN6L3GD2015check_registersEv
+                0x00000000       0x54 l3gd20.cpp.o
+                0x00000000                L3GD20::check_registers()
+
+.text._ZN6L3GD207measureEv
+                0x00000000      0x270
+ .text._ZN6L3GD207measureEv
+                0x00000000      0x270 l3gd20.cpp.o
+                0x00000000                L3GD20::measure()
+
+.text._ZN6L3GD204readEP4filePcj
+                0x00000000       0x68
+ .text._ZN6L3GD204readEP4filePcj
+                0x00000000       0x68 l3gd20.cpp.o
+                0x00000000                L3GD20::read(file*, char*, unsigned int)
+
+.text._ZN6L3GD2018measure_trampolineEPv
+                0x00000000        0x4
+ .text._ZN6L3GD2018measure_trampolineEPv
+                0x00000000        0x4 l3gd20.cpp.o
+                0x00000000                L3GD20::measure_trampoline(void*)
+
+.text._ZN6L3GD2010print_infoEv
+                0x00000000       0x88
+ .text._ZN6L3GD2010print_infoEv
+                0x00000000       0x88 l3gd20.cpp.o
+                0x00000000                L3GD20::print_info()
+
+.text._ZN6L3GD2015print_registersEv
+                0x00000000       0x44
+ .text._ZN6L3GD2015print_registersEv
+                0x00000000       0x44 l3gd20.cpp.o
+                0x00000000                L3GD20::print_registers()
+
+.text._ZN6L3GD2010test_errorEv
+                0x00000000        0x8
+ .text._ZN6L3GD2010test_errorEv
+                0x00000000        0x8 l3gd20.cpp.o
+                0x00000000                L3GD20::test_error()
+
+.text._ZN6L3GD209self_testEv
+                0x00000000       0xbc
+ .text._ZN6L3GD209self_testEv
+                0x00000000       0xbc l3gd20.cpp.o
+                0x00000000                L3GD20::self_test()
+
+.text._ZN6l3gd205startEb8Rotation
+                0x00000000       0x9c
+ .text._ZN6l3gd205startEb8Rotation
+                0x00000000       0x9c l3gd20.cpp.o
+                0x00000000                l3gd20::start(bool, Rotation)
+
+.text._ZN6l3gd204testEv
+                0x00000000      0x148
+ .text._ZN6l3gd204testEv
+                0x00000000      0x148 l3gd20.cpp.o
+                0x00000000                l3gd20::test()
+
+.text._ZN6l3gd205resetEv
+                0x00000000       0x60
+ .text._ZN6l3gd205resetEv
+                0x00000000       0x60 l3gd20.cpp.o
+                0x00000000                l3gd20::reset()
+
+.text._ZN6l3gd204infoEv
+                0x00000000       0x30
+ .text._ZN6l3gd204infoEv
+                0x00000000       0x30 l3gd20.cpp.o
+                0x00000000                l3gd20::info()
+
+.text._ZN6l3gd207regdumpEv
+                0x00000000       0x30
+ .text._ZN6l3gd207regdumpEv
+                0x00000000       0x30 l3gd20.cpp.o
+                0x00000000                l3gd20::regdump()
+
+.text._ZN6l3gd2010test_errorEv
+                0x00000000       0x30
+ .text._ZN6l3gd2010test_errorEv
+                0x00000000       0x30 l3gd20.cpp.o
+                0x00000000                l3gd20::test_error()
+
+.text._ZN6l3gd205usageEv
+                0x00000000       0x30
+ .text._ZN6l3gd205usageEv
+                0x00000000       0x30 l3gd20.cpp.o
+                0x00000000                l3gd20::usage()
+
+.text.l3gd20_main
+                0x00000000       0xd0
+ .text.l3gd20_main
+                0x00000000       0xd0 l3gd20.cpp.o
+                0x00000000                l3gd20_main
+
+.text._ZN6L3GD20D2Ev
+                0x00000000       0x64
+ .text._ZN6L3GD20D2Ev
+                0x00000000       0x64 l3gd20.cpp.o
+                0x00000000                L3GD20::~L3GD20()
+                0x00000000                L3GD20::~L3GD20()
+
+.text._ZN6L3GD20D0Ev
+                0x00000000       0x12
+ .text._ZN6L3GD20D0Ev
+                0x00000000       0x12 l3gd20.cpp.o
+                0x00000000                L3GD20::~L3GD20()
+
+.text._ZN6L3GD204initEv
+                0x00000000       0x90
+ .text._ZN6L3GD204initEv
+                0x00000000       0x90 l3gd20.cpp.o
+                0x00000000                L3GD20::init()
+
+.text._ZN6L3GD205ioctlEP4fileim
+                0x00000000      0x238
+ .text._ZN6L3GD205ioctlEP4fileim
+                0x00000000      0x238 l3gd20.cpp.o
+                0x00000000                L3GD20::ioctl(file*, int, unsigned long)
+
+.fini
+ *(SORT(.fini))
+
+.rodata
+ *(.rodata)
+
+.rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10 l3gd20.cpp.o
+                0x00000000                vtable for math::Vector<3u>
+
+.rodata.str1.1  0x00000000      0x3ba
+ .rodata.str1.1
+                0x00000000      0x3ba l3gd20.cpp.o
+
+.rodata._ZTV6L3GD20
+                0x00000000       0x60
+ .rodata._ZTV6L3GD20
+                0x00000000       0x60 l3gd20.cpp.o
+                0x00000000                vtable for L3GD20
+
+.rodata._ZN6L3GD2018_checked_registersE
+                0x00000000        0x8
+ .rodata._ZN6L3GD2018_checked_registersE
+                0x00000000        0x8 l3gd20.cpp.o
+                0x00000000                L3GD20::_checked_registers
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 l3gd20.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 l3gd20.cpp.o
+ *(COMMON)
+
+.bss._ZN6l3gd205g_devE
+                0x00000000        0x4
+ .bss._ZN6l3gd205g_devE
+                0x00000000        0x4 l3gd20.cpp.o
+                0x00000000                l3gd20::g_dev
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x71
+ *(.comment)
+ .comment       0x00000000       0x71 l3gd20.cpp.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc l3gd20.cpp.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l3gd20.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x140 l3gd20.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x465b
+ *(.debug_info)
+ .debug_info    0x00000000     0x465b l3gd20.cpp.o
+
+.debug_abbrev   0x00000000      0x8e1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x8e1 l3gd20.cpp.o
+
+.debug_line     0x00000000     0x22b5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000     0x22b5 l3gd20.cpp.o
+
+.debug_frame    0x00000000      0x474
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x474 l3gd20.cpp.o
+
+.debug_str      0x00000000    0x4d3c9
+ *(.debug_str)
+ .debug_str     0x00000000    0x4d3c9 l3gd20.cpp.o
+
+.debug_loc      0x00000000     0x184b
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x184b l3gd20.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x390
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x390 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x9eb
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x9eb l3gd20.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x35
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x35 l3gd20.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(d:/github/compiletest/34/ardupilot_rm_git/modules/PX4Firmware/Build/px4fmu-v2_APM.build/d/github/compiletest/34/ardupilot_rm_git/modules/PX4Firmware/src/drivers/l3gd20/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x95e
+ .debug_macro   0x00000000      0x95e l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x8b4
+ .debug_macro   0x00000000      0x8b4 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x12c
+ .debug_macro   0x00000000      0x12c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a l3gd20.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff l3gd20.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x23b
+ .debug_macro   0x00000000      0x23b l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c l3gd20.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x21b
+ .debug_macro   0x00000000      0x21b l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x2b6
+ .debug_macro   0x00000000      0x2b6 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x4a
+ .debug_macro   0x00000000       0x4a l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x2a4
+ .debug_macro   0x00000000      0x2a4 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xd6
+ .debug_macro   0x00000000       0xd6 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x31
+ .debug_macro   0x00000000       0x31 l3gd20.cpp.o
+
+.debug_macro    0x00000000      0x167
+ .debug_macro   0x00000000      0x167 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x5a
+ .debug_macro   0x00000000       0x5a l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x19
+ .debug_macro   0x00000000       0x19 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xc1
+ .debug_macro   0x00000000       0xc1 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x70
+ .debug_macro   0x00000000       0x70 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 l3gd20.cpp.o
+
+.debug_macro    0x00000000       0xba
+ .debug_macro   0x00000000       0xba l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c l3gd20.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e l3gd20.cpp.o

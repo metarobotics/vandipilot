@@ -1,0 +1,2614 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x8b4 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x88 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x12c ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x78 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x11b ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x195 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x6cb ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0xf6f ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x2ab ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x8b5 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x7ca ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0xff ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0xae7 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x11a ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x23b ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x56a ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x2bf ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0xd3 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0xab0 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x6fa ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x596 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x29b ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000     0x15a4 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x347 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x9a ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x413 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x13f ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0xdb4 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000      0x2b6 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x8ec ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x8b4 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xc9 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x88 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x12c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x6f ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x78 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x11b ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x59 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x27f ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x195 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x8a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x6cb ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x20a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0xf6f ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x2ab ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x8b5 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x23 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x39 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x78 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x7ca ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xff ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0xae7 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x51 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x11a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x1d ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x23b ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x56a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x9c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x2bf ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xd3 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x34 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0xab0 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x17 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x6fa ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x596 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x29b ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000     0x15a4 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x53 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x347 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x96 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x1c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x9a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x1cf ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x16c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x413 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x5f ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x1d ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xdf ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x13f ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x1c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0xdb4 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x21b ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x2b6 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x58 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x49 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xd1 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x98 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0xd6 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x58 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x2e ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x31 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x5a ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x14d ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000      0x333 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x1c ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/dsm.c.o
+ .debug_macro   0x00000000       0x19 ../../lib/rc/dsm.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x8ec ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x8b4 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0xc9 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x88 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x12c ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x6f ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x58 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x49 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x106 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x23 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0xd1 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x98 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x59 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x11b ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x27f ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000      0x195 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x8a ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x39 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0xb4 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x41 ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x4d ../../lib/rc/st24.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/st24.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x8ec ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x8b4 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0xc9 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x88 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x12c ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x1c ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x6f ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x58 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x49 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x106 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x23 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0xd1 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x98 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x59 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x11b ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x46 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x27f ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000      0x195 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x8a ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x39 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0xb4 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x41 ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x4d ../../lib/rc/sumd.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/sumd.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x8ec ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x8b4 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0xc9 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x88 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x14e ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x12c ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x58 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x4c ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x49 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x106 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x23 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x28 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0xd1 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x98 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x16 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x59 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x11b ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x46 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x27f ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000      0x195 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x8a ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x10 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x39 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0xb4 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x41 ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x4d ../../lib/rc/srxl.c.o
+ .debug_macro   0x00000000       0x22 ../../lib/rc/srxl.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .group         0x00000000        0x8 px4fmu_params.c.o
+ .debug_macro   0x00000000      0x8ec px4fmu_params.c.o
+ .debug_macro   0x00000000       0x22 px4fmu_params.c.o
+ .debug_macro   0x00000000      0x8b4 px4fmu_params.c.o
+ .debug_macro   0x00000000       0xc9 px4fmu_params.c.o
+ .debug_macro   0x00000000       0x10 px4fmu_params.c.o
+ .debug_macro   0x00000000       0x88 px4fmu_params.c.o
+ .debug_macro   0x00000000      0x14e px4fmu_params.c.o
+ .debug_macro   0x00000000      0x12c px4fmu_params.c.o
+ .debug_macro   0x00000000       0x22 px4fmu_params.c.o
+ .debug_macro   0x00000000       0x6f px4fmu_params.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD fmu.cpp.o
+LOAD ../../lib/rc/sbus.c.o
+LOAD ../../lib/rc/dsm.c.o
+LOAD ../../lib/rc/st24.c.o
+LOAD ../../lib/rc/sumd.c.o
+LOAD ../../lib/rc/srxl.c.o
+LOAD px4fmu_params.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 fmu.cpp.o
+ .text          0x00000000        0x0 ../../lib/rc/sbus.c.o
+ .text          0x00000000        0x0 ../../lib/rc/dsm.c.o
+ .text          0x00000000        0x0 ../../lib/rc/st24.c.o
+ .text          0x00000000        0x0 ../../lib/rc/sumd.c.o
+ .text          0x00000000        0x0 ../../lib/rc/srxl.c.o
+ .text          0x00000000        0x0 px4fmu_params.c.o
+ *(.gnu.warning)
+
+.text.unlikely._ZN12_GLOBAL__N_112sensor_resetEi
+                0x00000000       0x44
+ .text.unlikely._ZN12_GLOBAL__N_112sensor_resetEi
+                0x00000000       0x44 fmu.cpp.o
+
+.text.unlikely._ZN12_GLOBAL__N_116peripheral_resetEi
+                0x00000000       0x44
+ .text.unlikely._ZN12_GLOBAL__N_116peripheral_resetEi
+                0x00000000       0x44 fmu.cpp.o
+
+.text._ZN6device6Device4lockEv
+                0x00000000       0x12
+ .text._ZN6device6Device4lockEv
+                0x00000000       0x12 fmu.cpp.o
+                0x00000000                device::Device::lock()
+
+.text._ZN6PX4FMU14arm_nothrottleEv
+                0x00000000       0x14
+ .text._ZN6PX4FMU14arm_nothrottleEv
+                0x00000000       0x14 fmu.cpp.o
+                0x00000000                PX4FMU::arm_nothrottle()
+
+.text._ZN6PX4FMU16control_callbackEjhhRf
+                0x00000000       0x70
+ .text._ZN6PX4FMU16control_callbackEjhhRf
+                0x00000000       0x70 fmu.cpp.o
+                0x00000000                PX4FMU::control_callback(unsigned int, unsigned char, unsigned char, float&)
+
+.text._ZN6PX4FMUC2Ev
+                0x00000000      0x19c
+ .text._ZN6PX4FMUC2Ev
+                0x00000000      0x19c fmu.cpp.o
+                0x00000000                PX4FMU::PX4FMU()
+                0x00000000                PX4FMU::PX4FMU()
+
+.text._ZN6PX4FMU19safety_check_buttonEv
+                0x00000000        0x2
+ .text._ZN6PX4FMU19safety_check_buttonEv
+                0x00000000        0x2 fmu.cpp.o
+                0x00000000                PX4FMU::safety_check_button()
+
+.text._ZN6PX4FMU8set_modeENS_4ModeE
+                0x00000000      0x108
+ .text._ZN6PX4FMU8set_modeENS_4ModeE
+                0x00000000      0x108 fmu.cpp.o
+                0x00000000                PX4FMU::set_mode(PX4FMU::Mode)
+
+.text._ZN6PX4FMU12set_pwm_rateEjjj
+                0x00000000       0xa4
+ .text._ZN6PX4FMU12set_pwm_rateEjjj
+                0x00000000       0xa4 fmu.cpp.o
+                0x00000000                PX4FMU::set_pwm_rate(unsigned int, unsigned int, unsigned int)
+
+.text._ZN6PX4FMU16set_pwm_alt_rateEj
+                0x00000000        0xe
+ .text._ZN6PX4FMU16set_pwm_alt_rateEj
+                0x00000000        0xe fmu.cpp.o
+                0x00000000                PX4FMU::set_pwm_alt_rate(unsigned int)
+
+.text._ZN6PX4FMU20set_pwm_alt_channelsEj
+                0x00000000        0xc
+ .text._ZN6PX4FMU20set_pwm_alt_channelsEj
+                0x00000000        0xc fmu.cpp.o
+                0x00000000                PX4FMU::set_pwm_alt_channels(unsigned int)
+
+.text._ZN6PX4FMU17set_i2c_bus_clockEjj
+                0x00000000        0x4
+ .text._ZN6PX4FMU17set_i2c_bus_clockEjj
+                0x00000000        0x4 fmu.cpp.o
+                0x00000000                PX4FMU::set_i2c_bus_clock(unsigned int, unsigned int)
+
+.text._ZN6PX4FMU9subscribeEv
+                0x00000000       0x9c
+ .text._ZN6PX4FMU9subscribeEv
+                0x00000000       0x9c fmu.cpp.o
+                0x00000000                PX4FMU::subscribe()
+
+.text._ZN6PX4FMU19update_pwm_rev_maskEv
+                0x00000000       0x4c
+ .text._ZN6PX4FMU19update_pwm_rev_maskEv
+                0x00000000       0x4c fmu.cpp.o
+                0x00000000                PX4FMU::update_pwm_rev_mask()
+
+.text._ZN6PX4FMU19publish_pwm_outputsEPtj
+                0x00000000       0x78
+ .text._ZN6PX4FMU19publish_pwm_outputsEPtj
+                0x00000000       0x78 fmu.cpp.o
+                0x00000000                PX4FMU::publish_pwm_outputs(unsigned short*, unsigned int)
+
+.text._ZN6PX4FMU10work_startEv
+                0x00000000       0x1c
+ .text._ZN6PX4FMU10work_startEv
+                0x00000000       0x1c fmu.cpp.o
+                0x00000000                PX4FMU::work_start()
+
+.text._ZN6PX4FMU16capture_callbackEjyjj
+                0x00000000       0x2c
+ .text._ZN6PX4FMU16capture_callbackEjyjj
+                0x00000000       0x2c fmu.cpp.o
+                0x00000000                PX4FMU::capture_callback(unsigned int, unsigned long long, unsigned int, unsigned int)
+
+.text._ZN6PX4FMU18capture_trampolineEPvjyjj
+                0x00000000        0xa
+ .text._ZN6PX4FMU18capture_trampolineEPvjyjj
+                0x00000000        0xa fmu.cpp.o
+                0x00000000                PX4FMU::capture_trampoline(void*, unsigned int, unsigned long long, unsigned int, unsigned int)
+
+.text._ZN6PX4FMU10fill_rc_inEtPtybbji
+                0x00000000       0x76
+ .text._ZN6PX4FMU10fill_rc_inEtPtybbji
+                0x00000000       0x76 fmu.cpp.o
+                0x00000000                PX4FMU::fill_rc_in(unsigned short, unsigned short*, unsigned long long, bool, bool, unsigned int, int)
+
+.text._ZN6PX4FMU14pwm_output_setEjj
+                0x00000000       0x24
+ .text._ZN6PX4FMU14pwm_output_setEjj
+                0x00000000       0x24 fmu.cpp.o
+                0x00000000                PX4FMU::pwm_output_set(unsigned int, unsigned int)
+
+.text._ZN6PX4FMU5writeEP4filePKcj
+                0x00000000       0xdc
+ .text._ZN6PX4FMU5writeEP4filePKcj
+                0x00000000       0xdc fmu.cpp.o
+                0x00000000                PX4FMU::write(file*, char const*, unsigned int)
+
+.text._ZN6PX4FMU20update_pwm_out_stateEv
+                0x00000000       0x84
+ .text._ZN6PX4FMU20update_pwm_out_stateEv
+                0x00000000       0x84 fmu.cpp.o
+                0x00000000                PX4FMU::update_pwm_out_state()
+
+.text._ZN6PX4FMU9work_stopEv
+                0x00000000       0x54
+ .text._ZN6PX4FMU9work_stopEv
+                0x00000000       0x54 fmu.cpp.o
+                0x00000000                PX4FMU::work_stop()
+
+.text._ZN6PX4FMUD2Ev
+                0x00000000       0x50
+ .text._ZN6PX4FMUD2Ev
+                0x00000000       0x50 fmu.cpp.o
+                0x00000000                PX4FMU::~PX4FMU()
+                0x00000000                PX4FMU::~PX4FMU()
+
+.text._ZN6PX4FMUD0Ev
+                0x00000000       0x12
+ .text._ZN6PX4FMUD0Ev
+                0x00000000       0x12 fmu.cpp.o
+                0x00000000                PX4FMU::~PX4FMU()
+
+.text._ZN6PX4FMU9pwm_ioctlEP4fileim
+                0x00000000      0x598
+ .text._ZN6PX4FMU9pwm_ioctlEP4fileim
+                0x00000000      0x598 fmu.cpp.o
+                0x00000000                PX4FMU::pwm_ioctl(file*, int, unsigned long)
+
+.text._ZN6PX4FMU12sensor_resetEi
+                0x00000000      0x170
+ .text._ZN6PX4FMU12sensor_resetEi
+                0x00000000      0x170 fmu.cpp.o
+                0x00000000                PX4FMU::sensor_reset(int)
+
+.text._ZN6PX4FMU16peripheral_resetEi
+                0x00000000       0x40
+ .text._ZN6PX4FMU16peripheral_resetEi
+                0x00000000       0x40 fmu.cpp.o
+                0x00000000                PX4FMU::peripheral_reset(int)
+
+.text._ZN6PX4FMU10gpio_resetEv
+                0x00000000       0x20
+ .text._ZN6PX4FMU10gpio_resetEv
+                0x00000000       0x20 fmu.cpp.o
+                0x00000000                PX4FMU::gpio_reset()
+
+.text._ZN6PX4FMU17gpio_set_functionEji
+                0x00000000       0x68
+ .text._ZN6PX4FMU17gpio_set_functionEji
+                0x00000000       0x68 fmu.cpp.o
+                0x00000000                PX4FMU::gpio_set_function(unsigned int, int)
+
+.text._ZN6PX4FMU10gpio_writeEji
+                0x00000000       0x34
+ .text._ZN6PX4FMU10gpio_writeEji
+                0x00000000       0x34 fmu.cpp.o
+                0x00000000                PX4FMU::gpio_write(unsigned int, int)
+
+.text._ZN6PX4FMU9gpio_readEv
+                0x00000000       0x28
+ .text._ZN6PX4FMU9gpio_readEv
+                0x00000000       0x28 fmu.cpp.o
+                0x00000000                PX4FMU::gpio_read()
+
+.text._ZN6PX4FMU13capture_ioctlEP4fileim
+                0x00000000      0x174
+ .text._ZN6PX4FMU13capture_ioctlEP4fileim
+                0x00000000      0x174 fmu.cpp.o
+                0x00000000                PX4FMU::capture_ioctl(file*, int, unsigned long)
+
+.text._ZN6PX4FMU10gpio_ioctlEP4fileim
+                0x00000000       0x80
+ .text._ZN6PX4FMU10gpio_ioctlEP4fileim
+                0x00000000       0x80 fmu.cpp.o
+                0x00000000                PX4FMU::gpio_ioctl(file*, int, unsigned long)
+
+.text._ZN6PX4FMU14dsm_bind_ioctlEi
+                0x00000000       0x6c
+ .text._ZN6PX4FMU14dsm_bind_ioctlEi
+                0x00000000       0x6c fmu.cpp.o
+                0x00000000                PX4FMU::dsm_bind_ioctl(int)
+
+.text._ZN6PX4FMU5cycleEv
+                0x00000000      0x300
+ .text._ZN6PX4FMU5cycleEv
+                0x00000000      0x300 fmu.cpp.o
+                0x00000000                PX4FMU::cycle()
+
+.text._ZN6PX4FMU16cycle_trampolineEPv
+                0x00000000        0x4
+ .text._ZN6PX4FMU16cycle_trampolineEPv
+                0x00000000        0x4 fmu.cpp.o
+                0x00000000                PX4FMU::cycle_trampoline(void*)
+
+.text._ZN6PX4FMU6statusEv
+                0x00000000      0x13c
+ .text._ZN6PX4FMU6statusEv
+                0x00000000      0x13c fmu.cpp.o
+                0x00000000                PX4FMU::status()
+
+.text.fmu_main  0x00000000      0x6c8
+ .text.fmu_main
+                0x00000000      0x6c8 fmu.cpp.o
+                0x00000000                fmu_main
+
+.text._ZN6PX4FMU4initEv
+                0x00000000       0x5c
+ .text._ZN6PX4FMU4initEv
+                0x00000000       0x5c fmu.cpp.o
+                0x00000000                PX4FMU::init()
+
+.text._ZN6PX4FMU5ioctlEP4fileim
+                0x00000000       0x6c
+ .text._ZN6PX4FMU5ioctlEP4fileim
+                0x00000000       0x6c fmu.cpp.o
+                0x00000000                PX4FMU::ioctl(file*, int, unsigned long)
+
+.text.sbus_dropped_frames
+                0x00000000        0xc
+ .text.sbus_dropped_frames
+                0x00000000        0xc ../../lib/rc/sbus.c.o
+                0x00000000                sbus_dropped_frames
+
+.text.sbus_config
+                0x00000000       0x78
+ .text.sbus_config
+                0x00000000       0x78 ../../lib/rc/sbus.c.o
+                0x00000000                sbus_config
+
+.text.sbus_init
+                0x00000000       0x1e
+ .text.sbus_init
+                0x00000000       0x1e ../../lib/rc/sbus.c.o
+                0x00000000                sbus_init
+
+.text.sbus1_output
+                0x00000000      0x100
+ .text.sbus1_output
+                0x00000000      0x100 ../../lib/rc/sbus.c.o
+                0x00000000                sbus1_output
+
+.text.sbus2_output
+                0x00000000        0x4
+ .text.sbus2_output
+                0x00000000        0x4 ../../lib/rc/sbus.c.o
+                0x00000000                sbus2_output
+
+.text.sbus_parse
+                0x00000000      0x2b4
+ .text.sbus_parse
+                0x00000000      0x2b4 ../../lib/rc/sbus.c.o
+                0x00000000                sbus_parse
+
+.text.sbus_input
+                0x00000000       0x54
+ .text.sbus_input
+                0x00000000       0x54 ../../lib/rc/sbus.c.o
+                0x00000000                sbus_input
+
+.text.sbus1_set_output_rate_hz
+                0x00000000       0x28
+ .text.sbus1_set_output_rate_hz
+                0x00000000       0x28 ../../lib/rc/sbus.c.o
+                0x00000000                sbus1_set_output_rate_hz
+
+.text.dsm_config
+                0x00000000       0x74
+ .text.dsm_config
+                0x00000000       0x74 ../../lib/rc/dsm.c.o
+                0x00000000                dsm_config
+
+.text.dsm_init  0x00000000       0x4c
+ .text.dsm_init
+                0x00000000       0x4c ../../lib/rc/dsm.c.o
+                0x00000000                dsm_init
+
+.text.dsm_parse
+                0x00000000      0x30c
+ .text.dsm_parse
+                0x00000000      0x30c ../../lib/rc/dsm.c.o
+                0x00000000                dsm_parse
+
+.text.dsm_input
+                0x00000000       0x60
+ .text.dsm_input
+                0x00000000       0x60 ../../lib/rc/dsm.c.o
+                0x00000000                dsm_input
+
+.text.st24_common_crc8
+                0x00000000       0x3a
+ .text.st24_common_crc8
+                0x00000000       0x3a ../../lib/rc/st24.c.o
+                0x00000000                st24_common_crc8
+
+.text.st24_decode
+                0x00000000      0x1fc
+ .text.st24_decode
+                0x00000000      0x1fc ../../lib/rc/st24.c.o
+                0x00000000                st24_decode
+
+.text.sumd_crc16
+                0x00000000       0x20
+ .text.sumd_crc16
+                0x00000000       0x20 ../../lib/rc/sumd.c.o
+                0x00000000                sumd_crc16
+
+.text.sumd_crc8
+                0x00000000        0x6
+ .text.sumd_crc8
+                0x00000000        0x6 ../../lib/rc/sumd.c.o
+                0x00000000                sumd_crc8
+
+.text.sumd_decode
+                0x00000000      0x3a0
+ .text.sumd_decode
+                0x00000000      0x3a0 ../../lib/rc/sumd.c.o
+                0x00000000                sumd_decode
+
+.text.srxl_decode
+                0x00000000      0x18c
+ .text.srxl_decode
+                0x00000000      0x18c ../../lib/rc/srxl.c.o
+                0x00000000                srxl_decode
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x00000000       0x18
+ *(.rodata)
+ .rodata        0x00000000       0x18 fmu.cpp.o
+
+.rodata._ZN6PX4FMU9_gpio_tabE
+                0x00000000       0x90
+ .rodata._ZN6PX4FMU9_gpio_tabE
+                0x00000000       0x90 fmu.cpp.o
+                0x00000000                PX4FMU::_gpio_tab
+
+.rodata._ZZN6PX4FMU6statusEvE5modes
+                0x00000000       0x2c
+ .rodata._ZZN6PX4FMU6statusEvE5modes
+                0x00000000       0x2c fmu.cpp.o
+
+.rodata.str1.1  0x00000000      0xb4d
+ .rodata.str1.1
+                0x00000000      0x8e0 fmu.cpp.o
+ .rodata.str1.1
+                0x000008e0       0x35 ../../lib/rc/st24.c.o
+ .rodata.str1.1
+                0x00000915      0x238 ../../lib/rc/sumd.c.o
+
+.rodata._ZN6PX4FMU6_ngpioE
+                0x00000000        0x4
+ .rodata._ZN6PX4FMU6_ngpioE
+                0x00000000        0x4 fmu.cpp.o
+                0x00000000                PX4FMU::_ngpio
+
+.rodata._ZTV6PX4FMU
+                0x00000000       0x5c
+ .rodata._ZTV6PX4FMU
+                0x00000000       0x5c fmu.cpp.o
+                0x00000000                vtable for PX4FMU
+
+.rodata.CSWTCH.137
+                0x00000000        0xc
+ .rodata.CSWTCH.137
+                0x00000000        0xc fmu.cpp.o
+
+.rodata.sbus_decoder
+                0x00000000       0xc0
+ .rodata.sbus_decoder
+                0x00000000       0xc0 ../../lib/rc/sbus.c.o
+
+.rodata.masks.7066
+                0x00000000       0x1c
+ .rodata.masks.7066
+                0x00000000       0x1c ../../lib/rc/dsm.c.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 fmu.cpp.o
+ .data          0x00000000        0x0 ../../lib/rc/sbus.c.o
+ .data          0x00000000        0x0 ../../lib/rc/dsm.c.o
+ .data          0x00000000        0x0 ../../lib/rc/st24.c.o
+ .data          0x00000000        0x0 ../../lib/rc/sumd.c.o
+ .data          0x00000000        0x0 ../../lib/rc/srxl.c.o
+ .data          0x00000000        0x0 px4fmu_params.c.o
+
+.data.sbus1_frame_delay
+                0x00000000        0x4
+ .data.sbus1_frame_delay
+                0x00000000        0x4 ../../lib/rc/sbus.c.o
+
+.data.sbus_decode_state
+                0x00000000        0x2
+ .data.sbus_decode_state
+                0x00000000        0x2 ../../lib/rc/sbus.c.o
+
+.data.dsm_fd    0x00000000        0x4
+ .data.dsm_fd   0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.data.decode_states
+                0x00000000       0x18
+ .data.decode_states
+                0x00000000       0x18 ../../lib/rc/st24.c.o
+                0x00000000                decode_states
+
+.data._sumd     0x00000000        0x1
+ .data._sumd    0x00000000        0x1 ../../lib/rc/sumd.c.o
+                0x00000000                _sumd
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 fmu.cpp.o
+ .bss           0x00000000        0x0 ../../lib/rc/sbus.c.o
+ .bss           0x00000000        0x0 ../../lib/rc/dsm.c.o
+ .bss           0x00000000        0x0 ../../lib/rc/st24.c.o
+ .bss           0x00000000        0x0 ../../lib/rc/sumd.c.o
+ .bss           0x00000000        0x0 ../../lib/rc/srxl.c.o
+ .bss           0x00000000        0x0 px4fmu_params.c.o
+ *(COMMON)
+
+.bss._ZN6PX4FMU6_armedE
+                0x00000000       0x10
+ .bss._ZN6PX4FMU6_armedE
+                0x00000000       0x10 fmu.cpp.o
+                0x00000000                PX4FMU::_armed
+
+.bss._ZZN6PX4FMU5cycleEvE7_safety
+                0x00000000       0x10
+ .bss._ZZN6PX4FMU5cycleEvE7_safety
+                0x00000000       0x10 fmu.cpp.o
+
+.bss._ZN6PX4FMU10_pwm_limitE
+                0x00000000       0x10
+ .bss._ZN6PX4FMU10_pwm_limitE
+                0x00000000       0x10 fmu.cpp.o
+                0x00000000                PX4FMU::_pwm_limit
+
+.bss._ZN12_GLOBAL__N_15g_fmuE
+                0x00000000        0x4
+ .bss._ZN12_GLOBAL__N_15g_fmuE
+                0x00000000        0x4 fmu.cpp.o
+
+.bss.last_frame_time
+                0x00000000        0x8
+ .bss.last_frame_time
+                0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.bss.partial_frame_count
+                0x00000000        0x4
+ .bss.partial_frame_count
+                0x00000000        0x4 ../../lib/rc/sbus.c.o
+
+.bss.sbus_frame
+                0x00000000       0x25
+ .bss.sbus_frame
+                0x00000000       0x25 ../../lib/rc/sbus.c.o
+
+.bss.last_txframe_time
+                0x00000000        0x8
+ .bss.last_txframe_time
+                0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.bss.last_rx_time
+                0x00000000        0x8
+ .bss.last_rx_time
+                0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.bss.sbus_frame_drops
+                0x00000000        0x4
+ .bss.sbus_frame_drops
+                0x00000000        0x4 ../../lib/rc/sbus.c.o
+
+.bss.samples.7057
+                0x00000000        0x4
+ .bss.samples.7057
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss.dsm_partial_frame_count
+                0x00000000        0x4
+ .bss.dsm_partial_frame_count
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss.cs10.7055  0x00000000        0x4
+ .bss.cs10.7055
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss.dsm_frame  0x00000000       0x18
+ .bss.dsm_frame
+                0x00000000       0x18 ../../lib/rc/dsm.c.o
+
+.bss.dsm_buf    0x00000000       0x20
+ .bss.dsm_buf   0x00000000       0x20 ../../lib/rc/dsm.c.o
+
+.bss.dsm_last_rx_time
+                0x00000000        0x8
+ .bss.dsm_last_rx_time
+                0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.bss.dsm_last_frame_time
+                0x00000000        0x8
+ .bss.dsm_last_frame_time
+                0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.bss.dsm_chan_count
+                0x00000000        0x2
+ .bss.dsm_chan_count
+                0x00000000        0x2 ../../lib/rc/dsm.c.o
+
+.bss.dsm_frame_drops
+                0x00000000        0x4
+ .bss.dsm_frame_drops
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss.chan_values.7128
+                0x00000000       0x28
+ .bss.chan_values.7128
+                0x00000000       0x28 ../../lib/rc/dsm.c.o
+
+.bss.dsm_decode_state
+                0x00000000        0x1
+ .bss.dsm_decode_state
+                0x00000000        0x1 ../../lib/rc/dsm.c.o
+
+.bss.dsm_channel_shift
+                0x00000000        0x4
+ .bss.dsm_channel_shift
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss.cs11.7056  0x00000000        0x4
+ .bss.cs11.7056
+                0x00000000        0x4 ../../lib/rc/dsm.c.o
+
+.bss._rxpacket  0x00000000       0x8c
+ .bss._rxpacket
+                0x00000000       0x45 ../../lib/rc/st24.c.o
+ .bss._rxpacket
+                0x00000045       0x47 ../../lib/rc/sumd.c.o
+
+.bss._decode_state
+                0x00000000        0x2
+ .bss._decode_state
+                0x00000000        0x1 ../../lib/rc/st24.c.o
+ .bss._decode_state
+                0x00000001        0x1 ../../lib/rc/sumd.c.o
+
+.bss._rxlen     0x00000000        0x2
+ .bss._rxlen    0x00000000        0x1 ../../lib/rc/st24.c.o
+ .bss._rxlen    0x00000001        0x1 ../../lib/rc/sumd.c.o
+
+.bss._crc16     0x00000000        0x2
+ .bss._crc16    0x00000000        0x2 ../../lib/rc/sumd.c.o
+                0x00000000                _crc16
+
+.bss._crc8      0x00000000        0x1
+ .bss._crc8     0x00000000        0x1 ../../lib/rc/sumd.c.o
+                0x00000000                _crc8
+
+.bss._debug     0x00000000        0x1
+ .bss._debug    0x00000000        0x1 ../../lib/rc/sumd.c.o
+                0x00000000                _debug
+
+.bss._crcOK     0x00000000        0x1
+ .bss._crcOK    0x00000000        0x1 ../../lib/rc/sumd.c.o
+                0x00000000                _crcOK
+
+.bss.buflen     0x00000000        0x1
+ .bss.buflen    0x00000000        0x1 ../../lib/rc/srxl.c.o
+
+.bss.channels   0x00000000       0x28
+ .bss.channels  0x00000000       0x28 ../../lib/rc/srxl.c.o
+
+.bss.buffer     0x00000000       0x12
+ .bss.buffer    0x00000000       0x12 ../../lib/rc/srxl.c.o
+
+.bss.max_channels
+                0x00000000        0x2
+ .bss.max_channels
+                0x00000000        0x2 ../../lib/rc/srxl.c.o
+
+.bss.last_data_us
+                0x00000000        0x8
+ .bss.last_data_us
+                0x00000000        0x8 ../../lib/rc/srxl.c.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x317
+ *(.comment)
+ .comment       0x00000000       0x71 fmu.cpp.o
+ .comment       0x00000071       0x71 ../../lib/rc/sbus.c.o
+ .comment       0x000000e2       0x71 ../../lib/rc/dsm.c.o
+ .comment       0x00000153       0x71 ../../lib/rc/st24.c.o
+ .comment       0x000001c4       0x71 ../../lib/rc/sumd.c.o
+ .comment       0x00000235       0x71 ../../lib/rc/srxl.c.o
+ .comment       0x000002a6       0x71 px4fmu_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fmu.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/sbus.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/dsm.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/st24.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ../../lib/rc/srxl.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 px4fmu_params.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x280
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x160 fmu.cpp.o
+ .debug_aranges
+                0x00000160       0x58 ../../lib/rc/sbus.c.o
+ .debug_aranges
+                0x000001b8       0x38 ../../lib/rc/dsm.c.o
+ .debug_aranges
+                0x000001f0       0x28 ../../lib/rc/st24.c.o
+ .debug_aranges
+                0x00000218       0x30 ../../lib/rc/sumd.c.o
+ .debug_aranges
+                0x00000248       0x20 ../../lib/rc/srxl.c.o
+ .debug_aranges
+                0x00000268       0x18 px4fmu_params.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x85b4
+ *(.debug_info)
+ .debug_info    0x00000000     0x621c fmu.cpp.o
+ .debug_info    0x0000621c      0xab7 ../../lib/rc/sbus.c.o
+ .debug_info    0x00006cd3      0xbb1 ../../lib/rc/dsm.c.o
+ .debug_info    0x00007884      0x415 ../../lib/rc/st24.c.o
+ .debug_info    0x00007c99      0x584 ../../lib/rc/sumd.c.o
+ .debug_info    0x0000821d      0x32c ../../lib/rc/srxl.c.o
+ .debug_info    0x00008549       0x6b px4fmu_params.c.o
+
+.debug_abbrev   0x00000000     0x148c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x991 fmu.cpp.o
+ .debug_abbrev  0x00000991      0x30d ../../lib/rc/sbus.c.o
+ .debug_abbrev  0x00000c9e      0x326 ../../lib/rc/dsm.c.o
+ .debug_abbrev  0x00000fc4      0x152 ../../lib/rc/st24.c.o
+ .debug_abbrev  0x00001116      0x1e3 ../../lib/rc/sumd.c.o
+ .debug_abbrev  0x000012f9      0x16c ../../lib/rc/srxl.c.o
+ .debug_abbrev  0x00001465       0x27 px4fmu_params.c.o
+
+.debug_line     0x00000000     0x5cb5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000     0x22fd fmu.cpp.o
+ .debug_line    0x000022fd      0xee4 ../../lib/rc/sbus.c.o
+ .debug_line    0x000031e1     0x125b ../../lib/rc/dsm.c.o
+ .debug_line    0x0000443c      0x732 ../../lib/rc/st24.c.o
+ .debug_line    0x00004b6e      0x739 ../../lib/rc/sumd.c.o
+ .debug_line    0x000052a7      0x6db ../../lib/rc/srxl.c.o
+ .debug_line    0x00005982      0x333 px4fmu_params.c.o
+
+.debug_frame    0x00000000      0x780
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x504 fmu.cpp.o
+ .debug_frame   0x00000504       0xf4 ../../lib/rc/sbus.c.o
+ .debug_frame   0x000005f8       0xa4 ../../lib/rc/dsm.c.o
+ .debug_frame   0x0000069c       0x50 ../../lib/rc/st24.c.o
+ .debug_frame   0x000006ec       0x60 ../../lib/rc/sumd.c.o
+ .debug_frame   0x0000074c       0x34 ../../lib/rc/srxl.c.o
+
+.debug_str      0x00000000    0xfaf8b
+ *(.debug_str)
+ .debug_str     0x00000000    0x4e092 fmu.cpp.o
+ .debug_str     0x0004e092    0x44584 ../../lib/rc/sbus.c.o
+ .debug_str     0x00092616    0x48a43 ../../lib/rc/dsm.c.o
+ .debug_str     0x000db059     0x8d28 ../../lib/rc/st24.c.o
+ .debug_str     0x000e3d81     0x8d49 ../../lib/rc/sumd.c.o
+ .debug_str     0x000ecaca     0x8b39 ../../lib/rc/srxl.c.o
+ .debug_str     0x000f5603     0x5988 px4fmu_params.c.o
+
+.debug_loc      0x00000000     0x4118
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x2301 fmu.cpp.o
+ .debug_loc     0x00002301      0x6e7 ../../lib/rc/sbus.c.o
+ .debug_loc     0x000029e8      0x95b ../../lib/rc/dsm.c.o
+ .debug_loc     0x00003343      0x37d ../../lib/rc/st24.c.o
+ .debug_loc     0x000036c0      0x5b7 ../../lib/rc/sumd.c.o
+ .debug_loc     0x00003c77      0x4a1 ../../lib/rc/srxl.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x6d0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x438 fmu.cpp.o
+ .debug_ranges  0x00000438       0xe8 ../../lib/rc/sbus.c.o
+ .debug_ranges  0x00000520      0x108 ../../lib/rc/dsm.c.o
+ .debug_ranges  0x00000628       0x48 ../../lib/rc/st24.c.o
+ .debug_ranges  0x00000670       0x20 ../../lib/rc/sumd.c.o
+ .debug_ranges  0x00000690       0x40 ../../lib/rc/srxl.c.o
+
+.debug_macro    0x00000000     0x177a
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x7c0 fmu.cpp.o
+ .debug_macro   0x000007c0      0x48c ../../lib/rc/sbus.c.o
+ .debug_macro   0x00000c4c      0x57e ../../lib/rc/dsm.c.o
+ .debug_macro   0x000011ca      0x1bb ../../lib/rc/st24.c.o
+ .debug_macro   0x00001385      0x1bb ../../lib/rc/sumd.c.o
+ .debug_macro   0x00001540      0x1bd ../../lib/rc/srxl.c.o
+ .debug_macro   0x000016fd       0x7d px4fmu_params.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x35
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x35 fmu.cpp.o
+ .ARM.attributes
+                0x00000035       0x35 ../../lib/rc/sbus.c.o
+ .ARM.attributes
+                0x0000006a       0x35 ../../lib/rc/dsm.c.o
+ .ARM.attributes
+                0x0000009f       0x35 ../../lib/rc/st24.c.o
+ .ARM.attributes
+                0x000000d4       0x35 ../../lib/rc/sumd.c.o
+ .ARM.attributes
+                0x00000109       0x35 ../../lib/rc/srxl.c.o
+ .ARM.attributes
+                0x0000013e       0x35 px4fmu_params.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(d:/github/compiletest/34/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/d/github/compiletest/34/ardupilot/modules/PX4Firmware/src/drivers/px4fmu/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x95e
+ .debug_macro   0x00000000      0x95e fmu.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fmu.cpp.o
+
+.debug_macro    0x00000000      0x8b4
+ .debug_macro   0x00000000      0x8b4 fmu.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 fmu.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e fmu.cpp.o
+
+.debug_macro    0x00000000      0x12c
+ .debug_macro   0x00000000      0x12c fmu.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 fmu.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b fmu.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 fmu.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c fmu.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 fmu.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb fmu.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a fmu.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f fmu.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab fmu.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 fmu.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 fmu.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 fmu.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 fmu.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e fmu.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca fmu.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff fmu.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 fmu.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 fmu.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d fmu.cpp.o
+
+.debug_macro    0x00000000      0x23b
+ .debug_macro   0x00000000      0x23b fmu.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a fmu.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c fmu.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf fmu.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 fmu.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 fmu.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 fmu.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa fmu.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fmu.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 fmu.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 fmu.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 fmu.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 fmu.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fmu.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a fmu.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf fmu.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c fmu.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 fmu.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f fmu.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d fmu.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fmu.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000      0x21b
+ .debug_macro   0x00000000      0x21b fmu.cpp.o
+
+.debug_macro    0x00000000      0x2b6
+ .debug_macro   0x00000000      0x2b6 fmu.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e fmu.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fmu.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d fmu.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 fmu.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 fmu.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 fmu.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c fmu.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 fmu.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 fmu.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 fmu.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 fmu.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d fmu.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 fmu.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fmu.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e fmu.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c fmu.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x19
+ .debug_macro   0x00000000       0x19 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 fmu.cpp.o
+
+.debug_macro    0x00000000       0x4a
+ .debug_macro   0x00000000       0x4a fmu.cpp.o
+
+.debug_macro    0x00000000      0x2a4
+ .debug_macro   0x00000000      0x2a4 fmu.cpp.o
+
+.debug_macro    0x00000000       0xd6
+ .debug_macro   0x00000000       0xd6 fmu.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fmu.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 fmu.cpp.o
+
+.debug_macro    0x00000000       0x31
+ .debug_macro   0x00000000       0x31 fmu.cpp.o
+
+.debug_macro    0x00000000      0x167
+ .debug_macro   0x00000000      0x167 fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x5a
+ .debug_macro   0x00000000       0x5a fmu.cpp.o
+
+.debug_macro    0x00000000       0x70
+ .debug_macro   0x00000000       0x70 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fmu.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d fmu.cpp.o
+
+.debug_macro    0x00000000       0xc1
+ .debug_macro   0x00000000       0xc1 fmu.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000      0x1c8
+ .debug_macro   0x00000000      0x1c8 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000       0x68
+ .debug_macro   0x00000000       0x68 fmu.cpp.o
+
+.debug_macro    0x00000000       0xd5
+ .debug_macro   0x00000000       0xd5 fmu.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fmu.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fmu.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fmu.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fmu.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a fmu.cpp.o
+
+.debug_macro    0x00000000      0x8ec
+ .debug_macro   0x00000000      0x8ec ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x21b
+ .debug_macro   0x00000000      0x21b ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000      0x333
+ .debug_macro   0x00000000      0x333 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c ../../lib/rc/sbus.c.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x44
+ .debug_macro   0x00000000       0x44 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000      0x29d
+ .debug_macro   0x00000000      0x29d ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000      0x28f
+ .debug_macro   0x00000000      0x28f ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000      0x183
+ .debug_macro   0x00000000      0x183 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ../../lib/rc/dsm.c.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ../../lib/rc/st24.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 ../../lib/rc/st24.c.o
+
+.debug_macro    0x00000000       0x69
+ .debug_macro   0x00000000       0x69 ../../lib/rc/srxl.c.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b px4fmu_params.c.o
